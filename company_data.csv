@@ -1,0 +1,1001 @@
+id,company_name,industry,employees,revenue_millions,city,country,founded_year
+1,Future Ltd 95,Healthcare,49278,428.56,London,Australia,1981
+2,Global Solutions 41,Energy,11990,48.33,Sydney,Japan,1978
+3,Future Holdings 27,Retail,32752,404.84,London,USA,2013
+4,Omega Group 14,Real Estate,15210,463.89,Tokyo,UK,1983
+5,Future Ltd 66,Real Estate,34610,215.74,Sydney,Australia,1957
+6,Omega Group 55,Automotive,37511,260.28,San Francisco,USA,2017
+7,Tech Holdings 5,Energy,44551,425.56,New York,UK,1968
+8,Smart Inc 58,Energy,33837,226.57,Tokyo,Germany,1980
+9,Global Systems 18,Healthcare,3835,401.73,London,Canada,1972
+10,Alpha Systems 18,Real Estate,41096,99.55,Bangalore,Australia,1995
+11,Prime Holdings 1,Energy,2016,246.95,Toronto,UK,2000
+12,Smart Inc 32,Real Estate,15292,226.47,Toronto,UK,2002
+13,Alpha Inc 69,Healthcare,43283,490.21,Sydney,Canada,2001
+14,Alpha Corp 69,Retail,1484,394.44,Sydney,India,1975
+15,Tech Systems 75,Technology,9912,233.58,Sydney,Australia,1972
+16,Global Group 34,Real Estate,15986,63.03,Tokyo,Australia,1975
+17,Tech Group 74,Technology,6623,237.83,New York,USA,2009
+18,Prime Solutions 9,Healthcare,977,452.1,Tokyo,Australia,1974
+19,Future Solutions 39,Automotive,24085,51.18,Toronto,Australia,1977
+20,Prime Holdings 2,Real Estate,6660,373.29,Tokyo,Germany,1971
+21,Omega Group 8,Retail,10931,283.57,Bangalore,Germany,1976
+22,Tech Holdings 68,Automotive,9747,29.22,Bangalore,India,2015
+23,Global Group 13,Automotive,31131,414.57,Tokyo,USA,1959
+24,Global Ltd 36,Technology,5353,343.68,London,Canada,1972
+25,Prime Inc 47,Healthcare,43278,482.68,New York,Japan,2015
+26,Smart Inc 77,Technology,11721,377.4,London,UK,1975
+27,Tech Inc 37,Real Estate,41385,279.24,Berlin,Germany,1994
+28,Global Inc 38,Technology,39454,336.63,Bangalore,UK,2009
+29,Smart Holdings 64,Retail,38563,286.19,Tokyo,Australia,2004
+30,Omega Ltd 43,Energy,24352,408.18,London,Japan,1987
+31,Eco Group 72,Healthcare,31734,190.89,Tokyo,Canada,1956
+32,Omega Corp 84,Real Estate,16150,197.38,Toronto,Australia,2006
+33,Eco Solutions 6,Automotive,45310,385.72,New York,Canada,2005
+34,Smart Ltd 9,Technology,37598,308.3,San Francisco,Japan,1976
+35,Omega Systems 37,Technology,5894,369.56,New York,UK,1955
+36,Alpha Corp 64,Technology,41925,276.28,New York,Japan,1959
+37,Omega Group 93,Real Estate,49642,159.43,London,India,1963
+38,Alpha Holdings 26,Healthcare,22269,208.66,New York,Japan,1963
+39,Tech Systems 95,Automotive,28547,445.29,Berlin,Germany,2015
+40,Eco Group 82,Energy,35598,273.78,San Francisco,Australia,1953
+41,Eco Inc 36,Retail,33194,57.83,Sydney,Canada,1997
+42,Eco Group 40,Energy,32648,413.73,Bangalore,USA,1992
+43,Global Inc 7,Finance,28186,405.44,San Francisco,Germany,2001
+44,Future Ltd 77,Retail,16220,307.96,San Francisco,UK,1972
+45,Alpha Systems 78,Retail,43795,57.35,Sydney,Australia,2018
+46,Global Inc 41,Energy,30795,322.49,Berlin,Germany,1959
+47,Eco Group 40,Retail,19366,42.34,Berlin,Australia,1973
+48,Smart Solutions 78,Retail,4532,423.17,Bangalore,Canada,1959
+49,Eco Ltd 22,Healthcare,7837,184.51,Toronto,Australia,1999
+50,Global Group 40,Real Estate,24451,247.93,London,Australia,1997
+51,Future Solutions 45,Energy,9440,417.81,Bangalore,UK,1963
+52,Global Holdings 42,Retail,7688,328.8,London,Canada,1965
+53,Eco Systems 1,Technology,31254,137.81,San Francisco,UK,2005
+54,Prime Solutions 74,Automotive,36421,344.22,London,Canada,1972
+55,Prime Inc 15,Healthcare,33625,349.9,Bangalore,Canada,1972
+56,Eco Group 40,Technology,23385,155.95,Toronto,Germany,1978
+57,Future Holdings 13,Healthcare,34919,455.9,Bangalore,Canada,2013
+58,Prime Corp 60,Technology,2447,450.2,San Francisco,Japan,1970
+59,Eco Corp 47,Healthcare,31526,338.86,San Francisco,India,2021
+60,Prime Inc 72,Automotive,17342,369.25,New York,UK,2014
+61,Global Solutions 18,Healthcare,31322,96.64,Sydney,India,2013
+62,Global Ltd 16,Retail,29929,219.79,Bangalore,USA,1962
+63,Prime Inc 7,Healthcare,36227,30.56,Berlin,UK,1975
+64,Future Group 15,Energy,6419,497.74,San Francisco,Canada,1958
+65,Smart Inc 92,Energy,49476,34.34,Sydney,Australia,2016
+66,Tech Group 12,Automotive,1477,113.44,Tokyo,Canada,1968
+67,Alpha Holdings 13,Finance,3566,126.31,New York,Australia,1959
+68,Eco Corp 32,Technology,5571,82.8,San Francisco,India,1988
+69,Eco Corp 74,Energy,33916,173.89,Sydney,Germany,1987
+70,Prime Ltd 98,Real Estate,43234,152.57,Berlin,UK,2014
+71,Tech Inc 56,Retail,12490,470.44,Sydney,UK,2018
+72,Omega Systems 70,Technology,26438,321.39,Bangalore,Japan,1994
+73,Prime Group 33,Energy,27259,212.41,Tokyo,UK,2020
+74,Eco Holdings 50,Finance,44541,184.52,San Francisco,UK,1979
+75,Global Inc 2,Finance,2220,451.24,London,Australia,2012
+76,Smart Corp 86,Automotive,13810,425.92,London,Germany,1979
+77,Prime Inc 43,Automotive,40818,63.72,Berlin,Japan,1966
+78,Global Solutions 80,Energy,11455,391.85,London,Japan,1998
+79,Tech Holdings 13,Real Estate,32967,166.45,Toronto,Japan,1960
+80,Omega Group 41,Retail,10169,295.08,Bangalore,Germany,1976
+81,Future Group 64,Energy,19790,88.43,Toronto,UK,1989
+82,Omega Inc 12,Finance,6923,141.61,London,India,2008
+83,Prime Solutions 45,Technology,46888,22.76,Bangalore,India,1978
+84,Alpha Group 69,Technology,47322,16.21,Sydney,UK,2003
+85,Eco Inc 77,Healthcare,46137,347.26,San Francisco,India,1958
+86,Global Ltd 16,Automotive,11474,106.38,New York,Australia,1951
+87,Prime Inc 31,Retail,11708,141.78,Berlin,India,1952
+88,Eco Ltd 59,Finance,8758,177.94,Toronto,USA,2001
+89,Future Systems 21,Finance,39445,175.53,New York,Germany,1980
+90,Omega Inc 89,Technology,32847,178.2,Berlin,Germany,1965
+91,Alpha Corp 72,Real Estate,1365,188.91,Toronto,Japan,2000
+92,Smart Ltd 43,Technology,19887,399.68,New York,Australia,2007
+93,Global Holdings 45,Energy,45114,287.16,Toronto,USA,1980
+94,Alpha Corp 49,Energy,40094,369.05,London,India,2006
+95,Omega Systems 44,Healthcare,49929,382.13,Bangalore,Germany,1963
+96,Eco Group 38,Energy,36114,205.27,Tokyo,Canada,1966
+97,Alpha Systems 31,Finance,34012,196.73,Tokyo,Japan,1985
+98,Tech Ltd 97,Real Estate,45270,154.71,Toronto,Germany,1988
+99,Future Corp 62,Automotive,35681,352.82,Bangalore,India,1994
+100,Omega Solutions 43,Finance,34096,147.17,Bangalore,Canada,2005
+101,Tech Corp 47,Energy,37361,428.9,San Francisco,Canada,1962
+102,Eco Group 16,Retail,28975,268.76,Toronto,India,1978
+103,Omega Inc 44,Finance,22342,156.89,Toronto,Australia,2004
+104,Global Ltd 48,Technology,29092,150.34,New York,India,1970
+105,Global Solutions 25,Healthcare,15151,90.41,London,Japan,1960
+106,Eco Group 13,Retail,2466,368.0,San Francisco,Germany,1986
+107,Smart Corp 29,Automotive,2915,219.15,Sydney,USA,1987
+108,Alpha Holdings 43,Energy,31994,153.23,Tokyo,Australia,1980
+109,Eco Group 89,Automotive,34052,103.48,Bangalore,UK,1989
+110,Tech Solutions 28,Finance,41233,455.52,Tokyo,Germany,1995
+111,Global Group 20,Technology,24672,89.27,Sydney,UK,1962
+112,Smart Group 81,Automotive,16247,104.2,London,Germany,2023
+113,Prime Corp 37,Real Estate,30483,297.8,Tokyo,Australia,1988
+114,Omega Ltd 29,Retail,24005,109.72,London,Canada,1969
+115,Tech Corp 85,Technology,18870,260.48,London,Germany,1998
+116,Omega Solutions 76,Healthcare,49452,497.05,Sydney,Australia,1994
+117,Future Corp 51,Retail,3304,421.24,London,Australia,2023
+118,Eco Group 36,Healthcare,46971,282.13,London,Japan,2014
+119,Alpha Group 95,Energy,12128,316.06,Sydney,Germany,1951
+120,Alpha Systems 22,Technology,35090,355.79,San Francisco,UK,1957
+121,Global Inc 17,Technology,19568,434.35,Bangalore,India,1991
+122,Smart Ltd 31,Retail,45003,251.35,Berlin,Canada,1986
+123,Smart Ltd 71,Real Estate,43711,495.22,Berlin,UK,1967
+124,Future Solutions 84,Automotive,20908,41.59,Sydney,Germany,2015
+125,Alpha Solutions 94,Energy,35494,300.8,New York,Australia,1978
+126,Future Group 75,Finance,26281,18.52,London,Canada,1972
+127,Smart Systems 79,Automotive,42237,381.51,San Francisco,USA,1957
+128,Future Systems 62,Healthcare,47931,72.92,New York,Canada,1977
+129,Eco Group 56,Technology,46329,80.57,New York,USA,1996
+130,Omega Inc 44,Energy,2873,397.08,Bangalore,Germany,1982
+131,Alpha Systems 69,Finance,26615,215.93,Berlin,UK,1994
+132,Eco Group 42,Automotive,22643,482.5,Bangalore,USA,2007
+133,Alpha Ltd 15,Retail,46645,493.1,San Francisco,Japan,1989
+134,Prime Systems 8,Retail,26695,2.53,Sydney,Canada,2018
+135,Future Holdings 61,Automotive,3917,401.73,New York,Australia,2014
+136,Omega Solutions 16,Healthcare,22746,387.37,London,USA,1990
+137,Prime Solutions 25,Real Estate,31410,374.36,Toronto,UK,1996
+138,Eco Corp 66,Healthcare,24340,2.01,New York,Japan,1959
+139,Prime Corp 54,Automotive,22370,99.87,Tokyo,India,1977
+140,Omega Solutions 12,Finance,38523,309.31,San Francisco,UK,1972
+141,Omega Holdings 14,Technology,37605,188.44,San Francisco,Australia,1979
+142,Global Solutions 3,Finance,12808,403.94,Berlin,UK,1991
+143,Alpha Systems 73,Finance,37985,62.22,Bangalore,UK,1995
+144,Alpha Solutions 47,Healthcare,46507,137.04,Berlin,India,1952
+145,Eco Solutions 27,Finance,40566,90.03,Tokyo,Australia,1972
+146,Smart Inc 60,Real Estate,33273,125.08,Toronto,Canada,2003
+147,Smart Corp 87,Healthcare,26002,293.72,Sydney,USA,1991
+148,Prime Holdings 26,Retail,43967,260.79,Sydney,Japan,1963
+149,Prime Solutions 46,Retail,1585,397.76,Tokyo,India,1950
+150,Smart Solutions 39,Real Estate,13904,219.83,Tokyo,India,1954
+151,Tech Holdings 44,Technology,18550,192.92,Berlin,Japan,1964
+152,Alpha Corp 39,Healthcare,24850,120.64,London,India,1982
+153,Prime Holdings 3,Energy,26663,311.23,Tokyo,Australia,1991
+154,Future Ltd 12,Energy,47645,176.97,New York,India,1965
+155,Smart Group 26,Real Estate,40099,458.86,Tokyo,UK,1975
+156,Prime Inc 71,Healthcare,1939,27.64,San Francisco,Canada,1991
+157,Omega Holdings 35,Technology,27014,118.67,Sydney,Japan,1998
+158,Prime Systems 64,Energy,18391,192.09,London,USA,1969
+159,Alpha Systems 26,Technology,12673,319.16,New York,Australia,1971
+160,Eco Group 82,Energy,25458,467.67,Toronto,Canada,1965
+161,Smart Systems 87,Finance,21666,442.46,Tokyo,UK,2009
+162,Alpha Corp 38,Automotive,18068,184.52,Bangalore,UK,2013
+163,Prime Group 33,Automotive,38629,75.21,Bangalore,Australia,2021
+164,Smart Corp 74,Finance,32855,153.16,London,UK,1966
+165,Alpha Solutions 18,Energy,32798,2.17,Sydney,UK,1966
+166,Tech Group 94,Technology,6926,394.55,San Francisco,Germany,1996
+167,Eco Corp 7,Retail,46581,75.2,Tokyo,Germany,1965
+168,Prime Group 59,Technology,19424,440.77,New York,Australia,2014
+169,Alpha Corp 20,Retail,40091,62.08,Tokyo,UK,1965
+170,Eco Solutions 2,Real Estate,11302,242.12,London,Australia,1976
+171,Future Systems 70,Real Estate,13854,23.67,Tokyo,Australia,1964
+172,Smart Corp 69,Energy,38231,214.27,Tokyo,India,1986
+173,Future Systems 7,Healthcare,23060,256.41,Bangalore,Australia,1985
+174,Eco Corp 87,Real Estate,39849,155.12,London,Germany,2000
+175,Global Ltd 5,Real Estate,31546,470.94,Bangalore,India,1984
+176,Eco Ltd 23,Real Estate,32777,63.87,Berlin,Australia,1960
+177,Future Group 40,Healthcare,46205,150.78,New York,USA,2013
+178,Omega Corp 64,Energy,18040,491.47,New York,Germany,1990
+179,Alpha Ltd 3,Healthcare,23171,83.76,Toronto,Germany,2013
+180,Global Holdings 26,Automotive,18207,289.16,Berlin,Germany,2008
+181,Global Ltd 78,Healthcare,14928,290.11,New York,Australia,1952
+182,Alpha Corp 13,Retail,17387,311.23,Sydney,Japan,1993
+183,Omega Ltd 18,Real Estate,48827,25.48,Tokyo,Japan,1970
+184,Eco Ltd 36,Real Estate,49215,85.4,Sydney,Germany,2009
+185,Prime Holdings 30,Retail,34276,277.41,London,Australia,2013
+186,Global Holdings 69,Retail,3767,33.87,Tokyo,Japan,1985
+187,Smart Holdings 87,Healthcare,31405,7.32,London,Germany,1997
+188,Alpha Corp 72,Healthcare,9055,130.09,San Francisco,India,2008
+189,Prime Systems 46,Real Estate,15947,65.73,Sydney,Canada,1977
+190,Prime Holdings 21,Real Estate,20859,269.21,Toronto,Australia,1989
+191,Omega Holdings 41,Real Estate,49955,307.92,San Francisco,UK,1987
+192,Prime Corp 51,Energy,15906,34.74,Sydney,UK,2022
+193,Prime Holdings 19,Technology,49942,60.94,Toronto,Australia,2005
+194,Global Corp 76,Automotive,6840,227.79,Sydney,India,1956
+195,Smart Solutions 55,Healthcare,44727,199.24,New York,India,2021
+196,Prime Group 48,Energy,23551,246.41,Bangalore,Japan,1958
+197,Eco Ltd 75,Retail,28966,315.5,Toronto,Australia,2002
+198,Eco Systems 1,Real Estate,8778,116.79,Toronto,Japan,1973
+199,Smart Ltd 22,Energy,27281,238.41,Tokyo,India,1995
+200,Tech Inc 18,Healthcare,15790,7.83,Berlin,Canada,1997
+201,Global Holdings 4,Automotive,24384,153.44,London,India,1981
+202,Global Ltd 46,Automotive,5524,141.54,San Francisco,Japan,1997
+203,Omega Inc 7,Real Estate,38555,443.96,New York,Germany,1953
+204,Smart Systems 72,Automotive,45006,466.8,Berlin,Canada,2011
+205,Prime Group 86,Retail,19627,197.55,San Francisco,USA,1995
+206,Eco Group 87,Finance,381,479.06,New York,India,2000
+207,Global Group 96,Finance,47124,248.11,San Francisco,India,1976
+208,Alpha Solutions 51,Automotive,11565,381.66,Bangalore,USA,1954
+209,Omega Solutions 71,Finance,41926,186.82,San Francisco,USA,1960
+210,Tech Holdings 54,Retail,11383,211.74,Tokyo,Australia,2018
+211,Prime Inc 17,Energy,35427,426.96,London,Japan,2010
+212,Global Solutions 56,Healthcare,23218,153.15,Bangalore,Japan,1986
+213,Eco Ltd 92,Real Estate,27127,303.99,New York,UK,2004
+214,Alpha Systems 82,Retail,4505,163.33,Tokyo,India,2004
+215,Eco Ltd 40,Real Estate,22890,144.06,Tokyo,India,1987
+216,Prime Systems 72,Healthcare,33101,23.87,New York,Canada,1962
+217,Smart Group 83,Energy,11204,391.74,Tokyo,USA,1966
+218,Smart Ltd 90,Energy,26712,109.95,San Francisco,Australia,1989
+219,Alpha Corp 51,Automotive,10513,80.07,New York,Germany,2020
+220,Global Systems 14,Real Estate,48171,439.48,New York,Japan,1979
+221,Global Solutions 94,Technology,21572,320.19,Sydney,Canada,1993
+222,Eco Solutions 60,Energy,3244,303.82,Berlin,Australia,1986
+223,Eco Corp 59,Energy,22898,86.74,San Francisco,India,2002
+224,Alpha Systems 35,Energy,30331,152.72,London,UK,1975
+225,Alpha Group 38,Automotive,39997,299.02,Bangalore,Japan,1966
+226,Tech Corp 45,Technology,41370,379.39,London,Germany,1950
+227,Tech Group 28,Finance,9253,460.33,Tokyo,India,1950
+228,Eco Group 34,Retail,23422,346.65,Tokyo,Japan,1995
+229,Future Inc 74,Healthcare,5924,489.89,Bangalore,Australia,2015
+230,Omega Corp 98,Retail,22631,398.07,London,Canada,2017
+231,Alpha Corp 55,Technology,19608,361.38,Toronto,UK,2007
+232,Alpha Systems 42,Technology,36524,286.04,Berlin,India,1981
+233,Global Group 72,Retail,7530,336.69,Sydney,India,2008
+234,Prime Group 31,Technology,11574,469.53,San Francisco,Australia,1968
+235,Alpha Corp 29,Real Estate,34458,251.71,Tokyo,Germany,1982
+236,Future Ltd 57,Energy,3727,92.24,New York,Germany,2013
+237,Prime Corp 71,Healthcare,30456,171.68,New York,Japan,1972
+238,Alpha Inc 65,Energy,35313,124.41,London,Australia,1992
+239,Smart Group 96,Automotive,32857,180.69,Bangalore,USA,1985
+240,Tech Systems 87,Finance,38340,82.73,London,Japan,1983
+241,Future Holdings 96,Energy,16840,226.1,Bangalore,USA,1950
+242,Alpha Holdings 89,Retail,45461,328.54,San Francisco,Germany,2013
+243,Alpha Ltd 48,Retail,11280,487.28,Berlin,Germany,1983
+244,Global Ltd 33,Technology,47125,181.14,Berlin,Canada,1982
+245,Eco Solutions 11,Finance,30183,331.13,Toronto,Australia,1996
+246,Omega Group 18,Finance,35388,319.11,Bangalore,Germany,1969
+247,Alpha Holdings 41,Real Estate,19833,204.68,Toronto,Canada,1999
+248,Global Group 70,Automotive,2943,234.18,New York,Japan,1995
+249,Eco Inc 49,Retail,15215,351.25,San Francisco,Japan,1961
+250,Future Holdings 11,Real Estate,1389,300.96,Sydney,Canada,2022
+251,Eco Systems 26,Healthcare,21986,111.66,London,India,1996
+252,Global Solutions 74,Healthcare,11175,317.71,Bangalore,Japan,2016
+253,Eco Solutions 76,Energy,18600,78.71,Bangalore,Japan,1972
+254,Smart Solutions 95,Automotive,36888,156.67,Berlin,Canada,1970
+255,Alpha Ltd 63,Technology,48344,186.94,Tokyo,Canada,1950
+256,Prime Inc 42,Healthcare,12112,174.3,Toronto,USA,1966
+257,Prime Corp 10,Technology,33329,163.89,New York,Germany,1956
+258,Tech Inc 85,Healthcare,4109,324.1,Berlin,Germany,1966
+259,Omega Systems 98,Technology,27178,167.82,Toronto,USA,1950
+260,Prime Systems 67,Automotive,15619,39.49,Berlin,Germany,1999
+261,Future Inc 12,Finance,15438,103.2,San Francisco,Germany,1982
+262,Tech Solutions 20,Technology,29812,245.84,San Francisco,USA,2012
+263,Omega Systems 44,Finance,5201,377.31,Tokyo,Germany,1984
+264,Omega Corp 34,Automotive,49591,133.62,London,Japan,1977
+265,Tech Solutions 24,Real Estate,20069,367.63,Sydney,Australia,1954
+266,Alpha Inc 20,Retail,20929,159.54,San Francisco,UK,2020
+267,Global Systems 7,Finance,27851,350.59,San Francisco,Japan,1954
+268,Global Corp 49,Finance,22903,105.74,Berlin,UK,1979
+269,Eco Ltd 71,Technology,36026,57.31,New York,India,1958
+270,Smart Ltd 95,Retail,9388,335.58,Toronto,India,2008
+271,Omega Corp 23,Retail,1154,38.39,Tokyo,Japan,1989
+272,Prime Ltd 45,Automotive,32637,423.11,San Francisco,UK,2017
+273,Alpha Corp 66,Healthcare,25997,255.81,New York,UK,2012
+274,Global Inc 25,Real Estate,33906,375.27,San Francisco,USA,1969
+275,Future Inc 78,Technology,22529,255.18,Bangalore,Germany,1994
+276,Eco Ltd 72,Healthcare,29374,24.48,Toronto,Germany,1986
+277,Prime Ltd 25,Healthcare,11290,296.69,Tokyo,India,1956
+278,Alpha Systems 38,Real Estate,26133,375.25,Toronto,India,1983
+279,Prime Inc 95,Automotive,8271,499.72,Tokyo,USA,2005
+280,Prime Ltd 73,Energy,18317,108.58,Tokyo,Australia,2004
+281,Smart Solutions 48,Energy,42372,436.29,Sydney,India,1950
+282,Smart Corp 79,Automotive,19174,203.19,Bangalore,Canada,1983
+283,Smart Group 10,Energy,33492,114.09,Bangalore,USA,2012
+284,Omega Corp 92,Healthcare,5962,363.23,London,Canada,1968
+285,Eco Corp 11,Real Estate,43612,135.7,New York,India,2014
+286,Prime Solutions 90,Finance,24904,158.06,Sydney,UK,2006
+287,Future Ltd 20,Finance,20703,69.09,Sydney,Australia,1997
+288,Tech Systems 43,Energy,10292,376.9,New York,Japan,1959
+289,Global Solutions 37,Healthcare,42000,425.43,Berlin,Japan,2004
+290,Smart Ltd 78,Healthcare,27272,29.03,Sydney,USA,2019
+291,Eco Solutions 1,Healthcare,34629,53.6,Toronto,Japan,2002
+292,Prime Inc 51,Automotive,13265,92.4,London,Germany,1983
+293,Eco Holdings 75,Energy,23595,473.59,Berlin,USA,1961
+294,Alpha Inc 41,Retail,30353,238.97,London,USA,2008
+295,Global Ltd 92,Energy,24706,188.21,San Francisco,Germany,2002
+296,Smart Holdings 5,Healthcare,2029,258.27,London,Japan,1969
+297,Smart Corp 46,Finance,33373,83.99,Sydney,Japan,1954
+298,Prime Solutions 4,Real Estate,44144,304.25,Tokyo,UK,1964
+299,Smart Holdings 67,Finance,9152,273.29,Bangalore,USA,2012
+300,Eco Solutions 8,Finance,47792,455.71,Tokyo,Japan,1984
+301,Future Ltd 38,Automotive,34884,318.5,Bangalore,UK,2010
+302,Future Holdings 32,Healthcare,20469,47.28,New York,UK,1993
+303,Smart Corp 83,Healthcare,35753,157.09,San Francisco,Canada,1989
+304,Smart Inc 42,Automotive,33092,139.72,London,UK,1979
+305,Global Ltd 62,Finance,38100,340.56,Tokyo,Canada,1986
+306,Global Corp 2,Real Estate,12029,288.61,Sydney,Australia,2002
+307,Tech Solutions 34,Finance,33538,68.72,Berlin,Germany,1989
+308,Global Inc 57,Real Estate,41548,278.23,London,UK,2003
+309,Eco Solutions 10,Real Estate,24394,348.98,London,India,1974
+310,Global Inc 54,Real Estate,28935,57.19,Bangalore,UK,1991
+311,Global Holdings 98,Energy,23122,488.56,Toronto,UK,1965
+312,Future Ltd 91,Energy,35200,193.31,Tokyo,Canada,1989
+313,Prime Solutions 69,Real Estate,1101,489.89,Toronto,UK,1974
+314,Global Corp 95,Healthcare,5803,285.0,San Francisco,Canada,1961
+315,Alpha Inc 62,Technology,19037,101.26,London,UK,2017
+316,Smart Solutions 45,Energy,47667,91.75,Bangalore,Japan,2004
+317,Prime Ltd 67,Retail,45772,51.19,Tokyo,Canada,1975
+318,Alpha Systems 97,Technology,23154,440.69,New York,UK,1972
+319,Omega Inc 88,Energy,41973,197.62,San Francisco,UK,1978
+320,Prime Holdings 76,Automotive,22887,351.63,Tokyo,Australia,2005
+321,Prime Ltd 15,Healthcare,38862,197.96,Sydney,Australia,1996
+322,Eco Systems 77,Automotive,31488,176.55,San Francisco,Canada,1967
+323,Omega Holdings 13,Finance,15481,184.97,Toronto,Japan,1982
+324,Prime Solutions 91,Finance,7777,400.16,Sydney,USA,1984
+325,Prime Holdings 75,Finance,24620,96.11,Berlin,USA,1995
+326,Smart Solutions 10,Healthcare,47033,1.37,Sydney,Canada,1972
+327,Eco Systems 25,Energy,43146,91.58,San Francisco,Canada,1971
+328,Alpha Inc 27,Automotive,4709,47.61,New York,Canada,1971
+329,Global Corp 35,Technology,41190,397.38,San Francisco,Canada,2020
+330,Eco Group 66,Healthcare,3915,393.12,London,Japan,2006
+331,Eco Solutions 29,Technology,29743,245.81,San Francisco,USA,1954
+332,Tech Corp 39,Retail,16887,234.24,Tokyo,Canada,1985
+333,Alpha Holdings 14,Technology,47213,251.8,Tokyo,India,2001
+334,Omega Ltd 79,Finance,26022,390.68,New York,India,1987
+335,Smart Inc 93,Healthcare,18303,20.97,New York,Australia,1987
+336,Omega Inc 2,Technology,26720,450.96,Sydney,Germany,1987
+337,Alpha Holdings 1,Retail,28220,249.57,Tokyo,India,1972
+338,Eco Solutions 49,Technology,32131,202.65,Tokyo,USA,2016
+339,Tech Inc 95,Healthcare,18453,488.77,San Francisco,Australia,1962
+340,Tech Ltd 30,Finance,44074,232.48,Tokyo,Japan,1955
+341,Eco Group 46,Automotive,25285,344.69,London,Germany,1980
+342,Prime Solutions 55,Energy,24235,377.84,Toronto,Canada,1991
+343,Tech Inc 82,Retail,44023,373.14,Bangalore,Germany,2009
+344,Future Solutions 61,Automotive,19574,432.34,Berlin,Australia,2003
+345,Alpha Group 35,Healthcare,39017,54.75,Berlin,USA,1996
+346,Alpha Inc 39,Healthcare,48448,345.6,New York,UK,2015
+347,Eco Group 73,Finance,38659,64.53,New York,Germany,1966
+348,Prime Ltd 73,Technology,26492,481.3,Berlin,Japan,2023
+349,Prime Solutions 3,Automotive,5748,59.11,Sydney,India,1965
+350,Omega Inc 17,Retail,196,144.38,Tokyo,UK,1969
+351,Global Inc 93,Healthcare,19888,433.37,London,Canada,1997
+352,Smart Holdings 35,Retail,35471,255.75,San Francisco,Germany,1975
+353,Prime Holdings 91,Energy,32376,26.31,Toronto,Japan,2019
+354,Eco Holdings 65,Healthcare,20047,480.76,Bangalore,Japan,1962
+355,Tech Group 79,Automotive,1834,166.97,Bangalore,Canada,1976
+356,Eco Systems 6,Retail,41696,87.33,Tokyo,Canada,1991
+357,Smart Ltd 86,Healthcare,43940,407.1,London,Australia,1958
+358,Smart Group 28,Retail,13879,23.51,London,USA,1956
+359,Smart Corp 54,Healthcare,8056,11.4,Bangalore,Japan,1988
+360,Alpha Group 37,Finance,16787,428.49,Tokyo,Germany,1987
+361,Tech Ltd 90,Energy,24004,450.51,San Francisco,Canada,2018
+362,Omega Ltd 16,Retail,18932,459.18,Toronto,UK,1957
+363,Global Ltd 80,Real Estate,11697,396.75,Tokyo,India,1979
+364,Alpha Corp 65,Finance,5186,306.76,San Francisco,UK,1994
+365,Alpha Inc 55,Energy,13186,210.23,San Francisco,India,1967
+366,Tech Holdings 56,Technology,15067,496.68,Berlin,Canada,1963
+367,Eco Inc 5,Technology,14770,481.83,London,Australia,1952
+368,Eco Inc 28,Healthcare,43040,390.85,Berlin,Japan,1987
+369,Smart Inc 33,Real Estate,15026,255.42,San Francisco,Canada,2010
+370,Global Holdings 44,Technology,47614,297.46,London,Germany,2009
+371,Tech Solutions 11,Healthcare,20878,173.07,Sydney,USA,1954
+372,Smart Ltd 32,Energy,9945,351.38,Tokyo,Germany,1982
+373,Prime Solutions 95,Technology,35058,499.34,London,India,2016
+374,Prime Group 80,Healthcare,38295,31.55,London,Germany,1981
+375,Future Solutions 24,Finance,39315,142.18,London,Australia,2010
+376,Future Holdings 12,Technology,26825,49.85,Berlin,Germany,1995
+377,Alpha Ltd 60,Automotive,41754,376.81,Bangalore,Australia,2001
+378,Eco Group 93,Automotive,24731,73.5,London,Germany,2022
+379,Smart Systems 43,Finance,33459,170.3,Toronto,Germany,2020
+380,Alpha Corp 36,Automotive,29202,126.84,Bangalore,India,1989
+381,Global Inc 39,Retail,17042,70.1,Toronto,India,1997
+382,Prime Systems 91,Technology,33347,451.4,Sydney,Germany,1968
+383,Alpha Corp 11,Finance,42847,113.85,San Francisco,India,1965
+384,Tech Holdings 70,Healthcare,15723,259.6,Berlin,Japan,2018
+385,Global Solutions 95,Healthcare,12447,132.77,New York,UK,2023
+386,Omega Holdings 10,Technology,21739,106.83,New York,USA,2003
+387,Tech Corp 86,Technology,17242,289.73,Tokyo,Germany,1977
+388,Eco Systems 52,Healthcare,21753,71.64,Toronto,Canada,2011
+389,Tech Group 39,Real Estate,24371,352.78,Tokyo,India,1983
+390,Smart Solutions 9,Real Estate,35091,34.5,Sydney,Germany,2007
+391,Omega Group 40,Energy,22447,209.6,Berlin,Canada,2000
+392,Omega Ltd 86,Real Estate,10699,87.59,London,Germany,2018
+393,Omega Group 14,Real Estate,15649,428.51,Berlin,Germany,1985
+394,Eco Group 47,Real Estate,10473,254.36,Bangalore,Australia,1965
+395,Tech Solutions 89,Technology,23406,418.3,New York,Australia,1981
+396,Eco Ltd 28,Healthcare,2207,338.7,Tokyo,Canada,1972
+397,Prime Inc 95,Real Estate,14298,292.83,San Francisco,Germany,2020
+398,Tech Corp 8,Finance,36666,362.9,New York,India,1987
+399,Smart Corp 96,Retail,18889,16.2,New York,Australia,1959
+400,Prime Systems 82,Retail,22830,350.02,San Francisco,Japan,2011
+401,Tech Ltd 34,Technology,17517,96.12,London,India,2014
+402,Prime Corp 58,Healthcare,36779,272.91,New York,UK,1973
+403,Tech Corp 51,Retail,36028,352.51,Toronto,Australia,2007
+404,Smart Corp 18,Automotive,46135,3.63,Sydney,UK,1982
+405,Omega Corp 47,Finance,8300,356.97,Sydney,USA,1970
+406,Global Ltd 32,Technology,7847,201.97,Tokyo,Canada,2009
+407,Eco Inc 97,Automotive,48233,240.96,Bangalore,Australia,2004
+408,Tech Inc 13,Retail,44334,326.79,Bangalore,USA,1977
+409,Global Solutions 83,Technology,4676,370.78,Bangalore,UK,1980
+410,Future Group 95,Healthcare,38442,144.34,London,Germany,2019
+411,Eco Corp 44,Real Estate,25201,236.98,Tokyo,Germany,1958
+412,Omega Holdings 67,Retail,42993,10.8,San Francisco,Japan,1974
+413,Tech Group 65,Energy,27342,48.57,Tokyo,Canada,1975
+414,Omega Inc 15,Automotive,48855,66.76,Sydney,India,1987
+415,Alpha Group 48,Healthcare,41377,107.47,San Francisco,India,2015
+416,Global Systems 68,Energy,21113,478.02,London,Australia,1951
+417,Tech Solutions 92,Automotive,42635,200.01,New York,India,1976
+418,Prime Holdings 87,Real Estate,13832,276.49,London,USA,1987
+419,Eco Corp 96,Finance,6084,429.74,Berlin,USA,2022
+420,Smart Group 94,Technology,19707,307.01,New York,Japan,1989
+421,Prime Corp 35,Healthcare,38379,47.09,London,India,1979
+422,Tech Ltd 68,Real Estate,18858,206.54,Bangalore,Canada,1953
+423,Global Solutions 19,Technology,13781,293.57,Toronto,Australia,1984
+424,Smart Solutions 92,Technology,49321,302.19,Berlin,UK,1981
+425,Global Systems 57,Finance,40005,189.09,Tokyo,Canada,2002
+426,Smart Ltd 17,Healthcare,23076,241.58,Bangalore,Germany,1989
+427,Prime Solutions 4,Retail,31306,458.33,Tokyo,Australia,2018
+428,Prime Systems 73,Retail,19321,123.98,London,Australia,1958
+429,Tech Holdings 86,Energy,3105,36.36,Tokyo,UK,1958
+430,Tech Holdings 33,Retail,45109,332.34,Toronto,UK,2009
+431,Tech Corp 95,Finance,27195,54.41,Sydney,India,1968
+432,Prime Systems 41,Energy,44214,417.75,Berlin,Australia,2017
+433,Alpha Inc 25,Retail,7966,108.32,London,Japan,1958
+434,Alpha Ltd 64,Healthcare,12666,368.13,Sydney,Japan,1992
+435,Smart Ltd 10,Finance,24027,398.27,Bangalore,Japan,2013
+436,Eco Group 13,Technology,46560,373.36,San Francisco,USA,2006
+437,Prime Ltd 41,Finance,9944,287.76,San Francisco,UK,1974
+438,Omega Systems 88,Energy,3373,163.45,Toronto,UK,1961
+439,Global Inc 80,Technology,29122,461.2,Sydney,USA,1955
+440,Tech Corp 40,Finance,30962,382.33,London,UK,1997
+441,Prime Ltd 64,Real Estate,46004,141.17,London,Japan,1966
+442,Prime Group 35,Real Estate,38241,48.49,London,Japan,1972
+443,Alpha Solutions 32,Energy,22141,467.46,New York,Australia,1975
+444,Omega Corp 34,Technology,3399,60.52,Berlin,India,2019
+445,Alpha Inc 16,Energy,5864,157.32,Sydney,India,1967
+446,Alpha Group 35,Retail,26722,316.79,Bangalore,USA,2012
+447,Alpha Holdings 24,Automotive,48116,119.24,San Francisco,USA,1984
+448,Future Ltd 67,Real Estate,18172,157.95,Berlin,Australia,1966
+449,Future Group 18,Automotive,40200,342.26,Bangalore,India,2011
+450,Global Solutions 70,Retail,34903,156.22,San Francisco,Germany,2003
+451,Smart Ltd 30,Healthcare,33607,258.1,Toronto,Germany,1994
+452,Prime Inc 21,Technology,16737,39.95,Tokyo,Australia,1950
+453,Smart Corp 3,Automotive,43679,453.58,Tokyo,Japan,2005
+454,Future Holdings 16,Real Estate,2484,180.44,San Francisco,USA,1972
+455,Tech Systems 49,Finance,29401,5.77,Berlin,Australia,1977
+456,Eco Group 79,Retail,40989,197.79,New York,Canada,1986
+457,Smart Systems 30,Finance,48306,401.27,Berlin,Australia,1957
+458,Smart Holdings 7,Energy,23435,458.37,Sydney,India,1963
+459,Alpha Ltd 52,Energy,41110,292.98,Tokyo,Australia,1989
+460,Prime Corp 80,Healthcare,42791,318.34,Toronto,Japan,2011
+461,Future Group 22,Real Estate,1440,359.44,San Francisco,UK,1978
+462,Future Group 62,Automotive,36052,138.28,New York,Germany,2012
+463,Future Holdings 51,Technology,23927,468.13,Toronto,USA,1985
+464,Future Systems 29,Energy,11839,173.74,Toronto,UK,1987
+465,Eco Inc 65,Technology,5617,202.54,Toronto,Australia,2021
+466,Prime Inc 51,Technology,39584,164.61,Toronto,USA,2019
+467,Prime Holdings 61,Retail,48673,351.21,Berlin,Canada,2022
+468,Omega Corp 67,Retail,26227,359.84,New York,Japan,1981
+469,Alpha Holdings 60,Finance,45688,398.41,Toronto,UK,1951
+470,Tech Solutions 4,Automotive,11202,96.57,New York,Canada,2004
+471,Prime Solutions 47,Healthcare,14546,272.33,Tokyo,Australia,1994
+472,Global Solutions 95,Finance,33727,99.77,Bangalore,Canada,2010
+473,Eco Corp 50,Healthcare,35265,192.53,New York,UK,1987
+474,Eco Inc 93,Automotive,8438,193.84,London,Japan,1988
+475,Omega Inc 79,Technology,8940,387.33,Tokyo,Germany,1983
+476,Tech Systems 77,Retail,21634,478.68,Bangalore,UK,1973
+477,Tech Inc 60,Retail,39157,55.54,New York,Canada,1991
+478,Smart Inc 48,Technology,37299,165.35,London,Australia,2019
+479,Tech Solutions 9,Healthcare,29599,446.3,Toronto,Canada,1994
+480,Smart Ltd 32,Retail,48781,158.36,London,UK,2000
+481,Prime Group 82,Retail,24086,338.59,Toronto,UK,1974
+482,Smart Inc 99,Healthcare,35373,3.7,Tokyo,Canada,1995
+483,Alpha Holdings 69,Healthcare,3080,78.14,San Francisco,Canada,1978
+484,Tech Ltd 84,Automotive,40771,93.65,San Francisco,Japan,2019
+485,Prime Ltd 20,Finance,2080,13.55,Bangalore,Japan,1975
+486,Smart Corp 98,Finance,32487,372.44,Bangalore,USA,1956
+487,Future Ltd 72,Energy,44709,36.05,Toronto,UK,2009
+488,Smart Systems 94,Energy,49322,316.42,San Francisco,India,1998
+489,Tech Holdings 32,Real Estate,47517,210.78,Toronto,Japan,1973
+490,Alpha Group 52,Automotive,4786,266.57,London,UK,1995
+491,Alpha Corp 42,Real Estate,25288,72.07,New York,Germany,1979
+492,Eco Solutions 91,Real Estate,8111,491.26,Toronto,Japan,1970
+493,Prime Corp 68,Real Estate,19950,7.82,Toronto,India,1982
+494,Smart Holdings 62,Energy,27296,25.24,San Francisco,Germany,1965
+495,Prime Holdings 98,Automotive,16093,463.96,Sydney,Japan,1978
+496,Future Group 44,Energy,8565,112.38,London,Australia,1976
+497,Tech Solutions 99,Finance,41862,438.55,Bangalore,Australia,2007
+498,Eco Holdings 90,Real Estate,44901,370.29,London,Australia,1958
+499,Global Solutions 15,Retail,26707,21.62,New York,USA,2022
+500,Smart Corp 99,Technology,1559,164.78,London,UK,1996
+501,Future Solutions 58,Real Estate,23522,455.03,Bangalore,USA,1973
+502,Future Ltd 84,Real Estate,38773,69.84,San Francisco,Germany,1953
+503,Global Solutions 96,Finance,14225,40.49,London,Canada,2003
+504,Alpha Holdings 23,Energy,9085,410.5,Tokyo,Australia,1958
+505,Tech Systems 3,Healthcare,20996,107.89,London,Japan,2014
+506,Tech Ltd 23,Retail,20876,157.29,Toronto,Australia,2018
+507,Prime Systems 92,Finance,1106,364.43,New York,Germany,1976
+508,Smart Corp 56,Finance,25586,324.92,San Francisco,UK,2004
+509,Prime Systems 59,Healthcare,29976,463.98,Sydney,India,2019
+510,Eco Group 70,Finance,11956,296.06,New York,Germany,1984
+511,Future Corp 5,Real Estate,38992,393.59,New York,Germany,1954
+512,Tech Corp 93,Real Estate,39744,143.87,San Francisco,USA,1987
+513,Alpha Corp 51,Energy,19566,216.71,London,USA,1982
+514,Eco Corp 66,Retail,23827,40.6,Toronto,India,2005
+515,Alpha Group 47,Retail,33378,276.62,Bangalore,Germany,1994
+516,Tech Group 45,Energy,28331,10.72,Bangalore,UK,1986
+517,Alpha Systems 77,Automotive,10662,489.55,Sydney,Australia,1971
+518,Global Ltd 45,Retail,13250,276.19,Berlin,Japan,1959
+519,Alpha Holdings 38,Finance,23408,275.5,Sydney,USA,1975
+520,Smart Inc 86,Real Estate,45241,426.03,Bangalore,USA,1967
+521,Smart Systems 48,Real Estate,14928,490.24,Sydney,Germany,1970
+522,Future Systems 93,Technology,7099,52.22,Toronto,Canada,2011
+523,Smart Group 61,Real Estate,3345,111.26,Toronto,India,1958
+524,Smart Systems 5,Finance,17156,461.33,Toronto,Australia,1964
+525,Omega Systems 96,Energy,47026,108.37,Toronto,Germany,2017
+526,Future Solutions 50,Finance,31306,400.54,Sydney,India,2014
+527,Future Ltd 34,Automotive,12443,221.6,Berlin,Australia,2013
+528,Prime Systems 49,Energy,10191,335.48,Bangalore,UK,1956
+529,Eco Systems 80,Retail,29099,288.46,Toronto,India,2003
+530,Alpha Group 1,Technology,29734,145.91,Sydney,USA,1970
+531,Alpha Group 93,Energy,22015,282.1,Toronto,Australia,2014
+532,Alpha Systems 82,Automotive,45010,291.82,Bangalore,India,1970
+533,Prime Holdings 11,Automotive,28840,3.68,London,UK,2015
+534,Smart Systems 49,Healthcare,17745,254.6,London,Australia,2010
+535,Future Group 55,Energy,28899,430.67,New York,Japan,1998
+536,Smart Corp 62,Real Estate,46561,322.76,San Francisco,Australia,2003
+537,Smart Systems 75,Retail,35459,403.56,Berlin,Australia,2009
+538,Future Group 61,Retail,28575,455.74,San Francisco,Germany,1982
+539,Tech Group 70,Real Estate,34991,293.69,Bangalore,Australia,1984
+540,Eco Group 18,Retail,3451,493.56,London,Australia,1966
+541,Eco Systems 9,Finance,12244,124.21,New York,Germany,2017
+542,Eco Holdings 60,Technology,37083,39.54,Berlin,India,2017
+543,Prime Group 25,Finance,5854,108.52,San Francisco,Germany,1971
+544,Global Inc 23,Retail,15411,339.48,Bangalore,Germany,1976
+545,Smart Inc 12,Technology,10543,306.51,Berlin,India,2016
+546,Omega Solutions 80,Finance,16274,413.26,Toronto,Canada,1964
+547,Smart Corp 10,Automotive,17842,54.96,San Francisco,Canada,1982
+548,Smart Systems 51,Energy,29437,329.86,New York,Germany,1972
+549,Prime Solutions 29,Technology,44330,298.29,San Francisco,Japan,2003
+550,Alpha Group 22,Retail,21465,176.31,Sydney,UK,2006
+551,Prime Ltd 19,Energy,17159,206.98,San Francisco,Canada,2000
+552,Tech Holdings 85,Real Estate,23012,365.07,Toronto,USA,1994
+553,Eco Solutions 51,Real Estate,14957,157.9,London,Australia,1976
+554,Omega Ltd 28,Healthcare,23061,48.23,London,UK,2002
+555,Smart Solutions 6,Real Estate,42508,333.78,Toronto,Australia,2023
+556,Global Holdings 77,Energy,4395,435.99,Toronto,Canada,1988
+557,Prime Holdings 45,Automotive,41001,283.8,New York,India,1970
+558,Global Solutions 97,Technology,35805,262.82,Bangalore,India,2000
+559,Omega Group 92,Healthcare,13197,79.62,London,Canada,1987
+560,Tech Corp 66,Healthcare,23692,358.72,Berlin,Canada,1970
+561,Smart Ltd 1,Automotive,23373,272.72,Toronto,Japan,2019
+562,Alpha Group 68,Technology,2200,125.65,London,USA,2021
+563,Prime Ltd 48,Finance,37788,155.63,Tokyo,UK,2013
+564,Eco Inc 8,Healthcare,10593,161.39,Tokyo,Germany,1969
+565,Global Systems 83,Retail,37273,472.43,New York,Canada,1970
+566,Tech Group 62,Energy,43745,422.62,London,Canada,1950
+567,Smart Corp 58,Energy,7464,10.58,San Francisco,Japan,1974
+568,Omega Systems 89,Energy,10015,238.12,Sydney,Japan,1967
+569,Tech Inc 86,Technology,37095,145.68,Berlin,USA,1999
+570,Tech Inc 29,Finance,20723,261.46,Sydney,Japan,1987
+571,Global Group 24,Finance,5716,293.69,London,Australia,1959
+572,Tech Systems 30,Automotive,33608,228.85,Tokyo,India,1975
+573,Alpha Systems 57,Healthcare,13005,328.83,Berlin,Japan,1995
+574,Future Solutions 53,Retail,7250,393.37,San Francisco,Japan,2016
+575,Global Solutions 81,Energy,14070,404.99,Bangalore,UK,2009
+576,Tech Solutions 86,Energy,6746,417.48,Toronto,Australia,2021
+577,Tech Solutions 38,Finance,37894,491.21,Toronto,Japan,1986
+578,Smart Group 80,Retail,19984,57.77,New York,Germany,1959
+579,Prime Systems 6,Retail,44234,492.9,Tokyo,India,1976
+580,Alpha Group 59,Retail,15261,306.07,San Francisco,UK,1968
+581,Eco Solutions 75,Retail,28144,86.32,San Francisco,Australia,2021
+582,Future Holdings 35,Finance,33974,489.49,Toronto,India,1964
+583,Tech Systems 76,Retail,1803,22.51,Sydney,Germany,1979
+584,Alpha Systems 29,Technology,32502,325.3,Bangalore,Germany,2012
+585,Alpha Corp 87,Healthcare,30814,359.85,Tokyo,Australia,1963
+586,Eco Corp 45,Technology,34600,182.39,San Francisco,India,2013
+587,Alpha Systems 36,Real Estate,21266,120.81,Bangalore,India,2023
+588,Smart Ltd 16,Energy,26295,38.47,Berlin,Australia,1953
+589,Eco Corp 49,Technology,31658,330.52,Bangalore,Canada,1959
+590,Alpha Group 98,Automotive,7155,76.0,London,India,1986
+591,Omega Inc 10,Automotive,42231,275.76,Tokyo,USA,1981
+592,Omega Systems 70,Technology,7054,455.64,San Francisco,Australia,1962
+593,Future Group 54,Automotive,44582,456.59,Toronto,UK,2000
+594,Prime Solutions 59,Technology,28550,284.5,Sydney,Japan,2003
+595,Omega Corp 9,Energy,19224,406.64,Toronto,Japan,1989
+596,Eco Inc 75,Healthcare,41550,380.06,Sydney,USA,1988
+597,Eco Inc 75,Healthcare,47160,424.97,Tokyo,USA,1967
+598,Eco Systems 30,Finance,7326,426.52,Toronto,UK,1957
+599,Global Systems 6,Real Estate,27420,364.28,Tokyo,Australia,1976
+600,Global Solutions 81,Real Estate,21173,54.91,Tokyo,India,1955
+601,Future Solutions 31,Automotive,23917,46.96,Toronto,Australia,1993
+602,Smart Ltd 45,Retail,10846,466.05,London,UK,1961
+603,Global Group 30,Real Estate,35648,312.42,Bangalore,India,2014
+604,Alpha Corp 65,Retail,19144,164.15,London,UK,2014
+605,Future Holdings 72,Energy,40332,258.73,Bangalore,Germany,1964
+606,Alpha Ltd 24,Automotive,24115,285.49,London,India,2015
+607,Alpha Ltd 60,Automotive,13437,421.8,London,Japan,2019
+608,Global Holdings 68,Automotive,17867,479.45,Tokyo,Australia,2014
+609,Eco Systems 41,Finance,2188,325.1,New York,India,1986
+610,Tech Group 19,Automotive,49165,322.4,San Francisco,Canada,1975
+611,Prime Systems 87,Energy,20332,319.03,San Francisco,Japan,1958
+612,Eco Group 19,Technology,19104,149.99,Sydney,India,1962
+613,Omega Ltd 28,Technology,11992,161.57,London,USA,1995
+614,Eco Holdings 28,Automotive,31145,270.76,Tokyo,Canada,1998
+615,Omega Corp 32,Healthcare,32903,263.35,Tokyo,India,1963
+616,Prime Corp 60,Energy,32973,227.59,New York,Australia,1994
+617,Future Solutions 39,Real Estate,29376,147.67,Bangalore,India,1986
+618,Omega Corp 79,Finance,14339,447.16,Tokyo,Canada,1973
+619,Tech Systems 22,Retail,39642,214.2,San Francisco,India,2022
+620,Future Inc 68,Healthcare,26998,89.09,New York,Japan,2013
+621,Omega Group 9,Technology,29507,255.84,London,Canada,1971
+622,Eco Corp 40,Energy,20059,444.37,London,Australia,2009
+623,Global Holdings 15,Finance,32657,450.12,Toronto,India,1993
+624,Eco Holdings 66,Real Estate,27125,305.52,Tokyo,Japan,2010
+625,Tech Group 46,Automotive,16515,184.61,Bangalore,Germany,1986
+626,Future Inc 7,Real Estate,2775,298.93,Sydney,USA,1981
+627,Prime Solutions 57,Energy,7369,480.9,San Francisco,Germany,1995
+628,Eco Inc 14,Real Estate,37141,320.47,Tokyo,USA,1990
+629,Tech Systems 83,Real Estate,12217,461.22,Berlin,Germany,2014
+630,Prime Ltd 87,Automotive,13068,80.32,Sydney,Australia,1976
+631,Alpha Solutions 85,Technology,34972,370.79,London,USA,1996
+632,Future Inc 39,Automotive,10277,6.75,Sydney,India,1988
+633,Omega Inc 49,Energy,28572,233.98,London,Japan,1972
+634,Global Ltd 11,Healthcare,16440,227.76,San Francisco,Australia,1986
+635,Future Corp 98,Real Estate,37421,186.7,Tokyo,USA,1953
+636,Global Inc 39,Real Estate,10137,107.4,Toronto,Germany,1954
+637,Omega Ltd 6,Energy,18424,327.7,Toronto,Canada,1985
+638,Omega Group 36,Automotive,24033,331.02,Bangalore,USA,1973
+639,Global Group 53,Retail,32952,318.74,Bangalore,Australia,1976
+640,Alpha Ltd 15,Finance,27135,445.56,New York,India,1989
+641,Smart Ltd 20,Retail,13742,27.95,Sydney,USA,1961
+642,Tech Inc 91,Technology,5488,215.92,San Francisco,UK,1971
+643,Alpha Ltd 12,Technology,13974,259.55,San Francisco,Germany,1985
+644,Tech Solutions 46,Healthcare,40050,435.14,New York,Canada,1952
+645,Prime Ltd 42,Automotive,7552,255.11,Berlin,UK,2010
+646,Prime Holdings 79,Finance,31058,470.46,Bangalore,Germany,1955
+647,Eco Corp 43,Real Estate,17045,398.29,London,Japan,1966
+648,Global Ltd 86,Finance,4802,389.46,Sydney,UK,1981
+649,Omega Solutions 4,Finance,40929,499.12,Sydney,India,2020
+650,Alpha Systems 41,Energy,45580,366.68,London,Japan,1995
+651,Prime Group 38,Retail,17525,104.67,San Francisco,USA,1995
+652,Omega Holdings 12,Real Estate,30173,296.75,New York,Canada,1985
+653,Future Systems 55,Automotive,42267,275.45,Bangalore,Canada,1989
+654,Smart Holdings 79,Technology,30915,273.69,Bangalore,Japan,1988
+655,Prime Corp 58,Energy,21679,494.11,Berlin,India,1966
+656,Prime Group 46,Automotive,48088,489.36,London,Australia,2023
+657,Omega Group 71,Energy,18198,287.52,Sydney,Australia,2001
+658,Omega Systems 57,Healthcare,18321,161.86,Toronto,Canada,1950
+659,Smart Solutions 43,Energy,13381,437.35,Toronto,Germany,1981
+660,Global Solutions 73,Retail,41459,342.47,London,India,1988
+661,Global Corp 53,Energy,1771,302.56,Toronto,Australia,2016
+662,Smart Corp 34,Retail,24990,471.66,Toronto,Canada,2022
+663,Eco Ltd 13,Automotive,12468,331.73,Toronto,Australia,2008
+664,Omega Inc 70,Automotive,48511,183.28,Sydney,India,1998
+665,Global Solutions 90,Retail,49669,422.66,Tokyo,India,1968
+666,Eco Inc 67,Healthcare,36503,261.58,San Francisco,Canada,1987
+667,Tech Holdings 76,Real Estate,3934,26.31,London,Germany,1965
+668,Tech Holdings 6,Retail,7832,404.77,Bangalore,Japan,2002
+669,Tech Solutions 28,Real Estate,21774,65.65,New York,UK,1997
+670,Future Group 81,Energy,5643,45.63,New York,India,1986
+671,Eco Solutions 56,Technology,36572,6.89,London,Australia,1994
+672,Alpha Systems 30,Retail,486,156.09,San Francisco,USA,1974
+673,Future Solutions 67,Finance,49951,85.78,San Francisco,Japan,2020
+674,Future Corp 88,Healthcare,1619,396.06,London,USA,1987
+675,Alpha Group 89,Retail,31861,495.9,New York,Germany,1997
+676,Tech Corp 9,Retail,44952,413.21,New York,UK,1992
+677,Eco Holdings 47,Energy,27455,420.7,Bangalore,Australia,1961
+678,Future Solutions 7,Healthcare,19956,199.3,Sydney,USA,1983
+679,Smart Corp 63,Healthcare,3701,253.03,Bangalore,India,2011
+680,Future Group 92,Finance,4545,201.81,New York,Canada,2009
+681,Future Solutions 55,Retail,7682,61.87,New York,USA,1952
+682,Tech Holdings 55,Energy,21319,407.03,New York,India,1958
+683,Tech Systems 61,Energy,41183,8.94,London,India,2023
+684,Prime Group 40,Energy,29193,8.15,Toronto,Germany,1977
+685,Future Corp 6,Retail,34742,83.65,Bangalore,Germany,2020
+686,Tech Holdings 31,Technology,41361,104.51,Sydney,Japan,1961
+687,Future Group 36,Healthcare,6186,3.25,Berlin,Japan,1978
+688,Eco Ltd 3,Automotive,38700,465.51,London,India,2000
+689,Omega Corp 15,Healthcare,19510,420.59,Sydney,Japan,1952
+690,Future Inc 48,Finance,33378,318.26,London,India,2003
+691,Tech Holdings 30,Healthcare,20984,183.68,New York,USA,1953
+692,Tech Solutions 90,Technology,39419,74.3,New York,India,1978
+693,Prime Systems 68,Healthcare,35680,325.43,Toronto,India,2018
+694,Alpha Holdings 67,Automotive,11166,140.26,Berlin,UK,2020
+695,Prime Solutions 55,Retail,17147,125.56,Sydney,Japan,2016
+696,Prime Holdings 69,Energy,35258,132.47,London,India,1966
+697,Global Holdings 20,Technology,10608,240.26,San Francisco,USA,2012
+698,Omega Ltd 66,Automotive,32935,82.75,Bangalore,Australia,1989
+699,Prime Ltd 76,Automotive,12022,136.6,Toronto,Canada,2006
+700,Future Holdings 30,Finance,39717,132.02,London,Canada,2003
+701,Tech Corp 48,Energy,19521,128.7,Toronto,Australia,1983
+702,Alpha Systems 24,Healthcare,19128,37.28,Toronto,Australia,1988
+703,Prime Group 53,Retail,36929,471.89,London,UK,1998
+704,Global Holdings 36,Retail,19332,175.9,Toronto,Canada,1969
+705,Omega Group 62,Real Estate,40934,393.59,Sydney,Germany,1963
+706,Prime Ltd 90,Real Estate,47439,5.51,Sydney,USA,1998
+707,Smart Ltd 75,Healthcare,29818,492.63,New York,Canada,1997
+708,Tech Solutions 68,Healthcare,3007,83.95,London,UK,1983
+709,Tech Inc 49,Finance,8860,193.0,Toronto,India,1957
+710,Omega Corp 95,Energy,1613,473.64,New York,Germany,1989
+711,Omega Corp 99,Automotive,6858,112.58,London,Australia,2016
+712,Global Ltd 28,Healthcare,13826,345.84,Toronto,Canada,1986
+713,Tech Holdings 74,Automotive,39969,143.65,Bangalore,Japan,2018
+714,Tech Systems 90,Healthcare,6673,309.6,Toronto,India,2006
+715,Omega Holdings 78,Technology,13746,147.5,Sydney,USA,1964
+716,Smart Corp 33,Energy,34030,333.96,Berlin,Australia,1982
+717,Alpha Systems 21,Healthcare,4769,476.74,New York,Australia,1962
+718,Smart Solutions 64,Finance,38092,417.96,Sydney,Japan,1951
+719,Eco Inc 69,Energy,22481,78.0,Tokyo,USA,1985
+720,Eco Group 41,Technology,20147,177.76,Tokyo,UK,1969
+721,Alpha Ltd 49,Energy,16700,429.39,Sydney,Canada,1969
+722,Eco Systems 46,Technology,28120,23.2,London,India,1986
+723,Prime Systems 16,Automotive,36060,325.23,New York,Canada,2014
+724,Tech Ltd 26,Finance,553,11.7,Toronto,Germany,2019
+725,Smart Solutions 86,Technology,31100,213.4,London,Japan,1965
+726,Omega Systems 2,Technology,47279,378.38,Tokyo,Japan,1994
+727,Omega Group 74,Real Estate,28257,469.02,San Francisco,UK,1952
+728,Omega Solutions 85,Technology,21452,447.88,Sydney,USA,2018
+729,Prime Corp 66,Healthcare,7975,95.87,Toronto,Australia,1995
+730,Tech Solutions 72,Finance,17669,101.33,Berlin,Germany,1970
+731,Future Holdings 59,Retail,929,356.38,Bangalore,Japan,1999
+732,Omega Solutions 58,Retail,38075,247.41,London,USA,1998
+733,Prime Group 71,Healthcare,23190,167.23,San Francisco,Japan,1991
+734,Alpha Solutions 23,Energy,48081,43.12,New York,Canada,1953
+735,Future Inc 97,Automotive,6279,182.92,Bangalore,USA,1986
+736,Future Group 58,Energy,25617,19.33,San Francisco,Australia,1983
+737,Tech Systems 74,Retail,34583,418.83,Tokyo,USA,1999
+738,Smart Solutions 78,Retail,36665,268.49,Tokyo,UK,1999
+739,Omega Inc 17,Healthcare,528,496.0,Toronto,Japan,1979
+740,Tech Systems 49,Automotive,9860,96.36,Sydney,Canada,1960
+741,Eco Group 22,Finance,40561,38.58,Bangalore,Japan,1972
+742,Smart Group 88,Technology,37774,170.08,New York,USA,1999
+743,Omega Inc 32,Retail,46504,19.6,Bangalore,Japan,1978
+744,Prime Corp 17,Technology,24377,291.6,Sydney,India,1991
+745,Future Corp 89,Automotive,6243,42.37,Bangalore,Japan,1982
+746,Smart Systems 7,Healthcare,10578,388.51,Bangalore,Germany,2016
+747,Smart Group 72,Real Estate,39982,376.68,San Francisco,Japan,2016
+748,Eco Systems 12,Retail,10428,1.84,San Francisco,Germany,2007
+749,Future Corp 1,Real Estate,19799,20.5,Sydney,Germany,2002
+750,Smart Corp 61,Real Estate,42458,331.21,Bangalore,India,1972
+751,Alpha Systems 97,Real Estate,26724,46.27,Toronto,India,1971
+752,Omega Holdings 14,Automotive,33810,491.42,Tokyo,Canada,1984
+753,Omega Group 88,Automotive,44458,288.74,Sydney,USA,2016
+754,Prime Group 46,Real Estate,40018,34.73,New York,Canada,1960
+755,Smart Systems 75,Finance,47487,431.7,London,Canada,1996
+756,Smart Holdings 89,Finance,32347,473.22,Tokyo,Germany,1956
+757,Tech Solutions 6,Retail,1019,313.06,Tokyo,Australia,1963
+758,Smart Solutions 58,Finance,10944,498.26,London,Australia,1992
+759,Omega Group 59,Finance,40273,47.18,Tokyo,Canada,2003
+760,Future Group 95,Automotive,2717,454.51,Bangalore,Australia,1955
+761,Omega Solutions 82,Retail,25199,284.57,London,UK,1971
+762,Prime Corp 8,Energy,29734,304.03,London,UK,1950
+763,Global Group 40,Automotive,32930,353.04,Toronto,Canada,1970
+764,Omega Group 40,Automotive,10775,438.53,Tokyo,Germany,1961
+765,Smart Ltd 57,Retail,26791,464.41,Sydney,Australia,2002
+766,Prime Corp 70,Real Estate,7825,282.84,Tokyo,Canada,2011
+767,Future Holdings 68,Real Estate,39686,39.36,Sydney,India,2011
+768,Alpha Corp 61,Energy,361,104.82,Berlin,UK,2011
+769,Smart Group 27,Healthcare,30527,201.08,Toronto,USA,1957
+770,Global Corp 98,Healthcare,3834,71.14,San Francisco,Australia,1959
+771,Global Group 20,Healthcare,47845,373.48,Bangalore,Canada,1986
+772,Prime Corp 3,Technology,1035,162.26,San Francisco,India,1953
+773,Smart Ltd 25,Retail,20660,402.43,New York,Germany,2004
+774,Tech Corp 25,Energy,5041,281.5,Sydney,India,1993
+775,Global Group 3,Automotive,1319,215.89,Berlin,Germany,2007
+776,Future Inc 77,Finance,2955,249.89,San Francisco,Canada,1983
+777,Tech Solutions 70,Real Estate,3615,370.47,Sydney,Japan,1956
+778,Global Holdings 88,Automotive,48953,321.76,Sydney,UK,1985
+779,Global Holdings 28,Healthcare,4269,326.04,Berlin,India,1971
+780,Alpha Solutions 44,Retail,6945,99.18,Toronto,UK,1956
+781,Global Inc 27,Energy,38122,109.63,Tokyo,Canada,1979
+782,Tech Inc 68,Healthcare,8890,354.74,New York,Japan,2005
+783,Global Corp 96,Finance,40925,1.1,Tokyo,Australia,2020
+784,Tech Holdings 45,Real Estate,29568,140.94,New York,Australia,2022
+785,Tech Holdings 45,Technology,40438,1.79,New York,Australia,2013
+786,Tech Ltd 42,Retail,18129,462.55,San Francisco,Canada,1959
+787,Eco Solutions 28,Healthcare,11796,374.87,Toronto,Australia,1959
+788,Tech Systems 97,Technology,27057,33.94,London,Canada,1951
+789,Omega Systems 44,Healthcare,29462,255.08,Sydney,Canada,2001
+790,Tech Group 13,Retail,13933,280.74,San Francisco,Australia,1981
+791,Future Holdings 48,Real Estate,27508,127.35,Sydney,USA,1987
+792,Prime Systems 15,Energy,42966,462.0,New York,Australia,1958
+793,Alpha Group 5,Automotive,25175,195.84,Bangalore,Germany,2008
+794,Prime Holdings 30,Energy,37880,85.56,Berlin,Canada,1984
+795,Smart Holdings 42,Real Estate,13391,30.21,London,USA,1982
+796,Future Group 35,Automotive,13809,476.56,Toronto,Canada,1958
+797,Tech Group 33,Technology,45270,115.88,Bangalore,Japan,2008
+798,Alpha Solutions 51,Energy,39397,75.52,London,Germany,1970
+799,Global Group 46,Retail,11362,133.58,New York,India,2005
+800,Tech Inc 44,Technology,16925,170.54,Toronto,Canada,1976
+801,Smart Systems 71,Energy,33305,328.21,Sydney,USA,1954
+802,Prime Corp 79,Retail,17860,453.23,Bangalore,UK,2019
+803,Future Holdings 53,Real Estate,8756,323.76,New York,Germany,1984
+804,Prime Holdings 99,Healthcare,2996,196.59,San Francisco,Japan,1993
+805,Tech Group 27,Real Estate,33322,229.86,New York,Canada,2014
+806,Omega Inc 56,Real Estate,11263,121.27,Toronto,Australia,2014
+807,Prime Solutions 72,Technology,48722,313.61,Berlin,Canada,1977
+808,Eco Inc 4,Healthcare,15160,57.65,Toronto,USA,2020
+809,Omega Corp 91,Energy,21957,360.33,London,Canada,2003
+810,Alpha Corp 57,Real Estate,25644,33.34,New York,Canada,1967
+811,Smart Inc 48,Healthcare,38708,420.92,London,Germany,1988
+812,Future Ltd 84,Healthcare,4229,138.83,Bangalore,India,1950
+813,Eco Inc 12,Technology,28285,47.53,Sydney,Germany,1990
+814,Future Ltd 7,Automotive,35225,119.42,Berlin,USA,2013
+815,Tech Ltd 45,Energy,9233,461.55,Tokyo,Germany,1999
+816,Smart Solutions 99,Technology,12774,459.78,Bangalore,Canada,2023
+817,Prime Corp 68,Technology,48154,421.81,New York,USA,1991
+818,Prime Systems 28,Retail,3272,347.22,Tokyo,Japan,2021
+819,Prime Inc 2,Automotive,47988,138.01,Bangalore,Canada,1991
+820,Alpha Solutions 86,Real Estate,30444,324.13,Bangalore,Japan,2004
+821,Tech Corp 1,Energy,29098,176.67,Sydney,Australia,2004
+822,Global Systems 65,Energy,44408,63.9,San Francisco,Australia,1951
+823,Tech Ltd 51,Healthcare,13289,106.78,Berlin,Canada,1954
+824,Eco Group 74,Technology,10312,47.05,New York,Germany,1963
+825,Eco Group 43,Technology,38344,69.17,Tokyo,USA,1983
+826,Global Solutions 84,Healthcare,4300,277.04,Berlin,UK,1958
+827,Eco Group 93,Energy,41824,383.28,Sydney,Australia,1990
+828,Future Corp 34,Retail,18004,427.37,Bangalore,Germany,2005
+829,Global Ltd 69,Retail,18812,94.72,Bangalore,Canada,1964
+830,Smart Holdings 35,Finance,5852,213.79,San Francisco,USA,1971
+831,Global Ltd 10,Finance,38238,407.63,London,Australia,1952
+832,Omega Ltd 14,Technology,31137,248.52,New York,UK,1967
+833,Prime Ltd 94,Technology,21626,412.14,London,Japan,2000
+834,Omega Inc 52,Energy,26599,20.47,Bangalore,Australia,2023
+835,Tech Group 71,Healthcare,4783,443.13,Toronto,USA,1980
+836,Smart Ltd 7,Retail,49783,129.73,San Francisco,Australia,1955
+837,Tech Holdings 10,Technology,16213,39.14,Sydney,Canada,1964
+838,Global Systems 93,Technology,11279,52.56,Sydney,UK,2007
+839,Eco Ltd 19,Real Estate,6506,94.99,Tokyo,Australia,2004
+840,Prime Solutions 88,Healthcare,37123,334.42,Toronto,Australia,1988
+841,Prime Systems 33,Retail,18275,254.38,Sydney,USA,1969
+842,Tech Holdings 95,Finance,22009,277.06,Toronto,India,1987
+843,Eco Systems 1,Healthcare,44991,362.87,New York,UK,1963
+844,Global Ltd 39,Real Estate,35513,448.35,London,Japan,1976
+845,Global Corp 93,Technology,48425,292.1,Tokyo,Germany,1988
+846,Global Ltd 38,Finance,9400,390.36,Toronto,Australia,2015
+847,Future Systems 71,Technology,2827,131.72,Berlin,UK,1978
+848,Future Inc 12,Finance,30151,431.8,Sydney,Canada,1986
+849,Tech Inc 38,Retail,21689,337.89,Bangalore,Japan,1967
+850,Smart Systems 98,Energy,13253,427.75,Tokyo,India,1962
+851,Global Group 14,Healthcare,12004,447.56,Berlin,Japan,1967
+852,Smart Ltd 64,Real Estate,28761,458.32,Bangalore,UK,2017
+853,Global Ltd 9,Technology,37677,426.45,Bangalore,Canada,1971
+854,Future Inc 7,Retail,10243,492.79,Toronto,Australia,1951
+855,Eco Group 55,Energy,27771,431.71,Tokyo,Australia,1961
+856,Alpha Inc 6,Retail,33342,303.55,Berlin,USA,1984
+857,Tech Holdings 73,Healthcare,17769,4.75,Tokyo,Australia,1978
+858,Tech Group 64,Retail,40767,340.02,Tokyo,Japan,1961
+859,Tech Group 38,Energy,16005,448.61,Toronto,Germany,2021
+860,Global Group 83,Automotive,39783,272.34,Berlin,UK,2010
+861,Omega Inc 61,Technology,17844,184.55,San Francisco,Australia,1966
+862,Tech Ltd 15,Automotive,23671,207.47,Toronto,UK,2000
+863,Global Systems 70,Retail,20683,181.45,New York,USA,2008
+864,Alpha Systems 85,Automotive,21221,407.46,Bangalore,India,2020
+865,Prime Holdings 14,Energy,30073,169.65,Toronto,India,1991
+866,Global Systems 95,Retail,29371,399.08,Sydney,Canada,1965
+867,Future Solutions 53,Healthcare,18765,311.02,New York,USA,1977
+868,Tech Systems 42,Retail,2430,415.14,San Francisco,Canada,2001
+869,Future Solutions 58,Automotive,13611,160.59,San Francisco,India,2005
+870,Tech Solutions 59,Real Estate,7251,106.59,San Francisco,Japan,2007
+871,Global Systems 32,Energy,2309,205.21,London,Canada,1968
+872,Smart Ltd 30,Automotive,42962,350.69,Berlin,USA,1997
+873,Future Inc 23,Automotive,33758,484.65,New York,USA,1975
+874,Alpha Inc 2,Automotive,9712,419.32,London,Japan,2004
+875,Alpha Corp 7,Energy,32438,147.82,Sydney,Australia,1983
+876,Global Inc 92,Automotive,8915,430.01,Toronto,UK,1988
+877,Tech Systems 23,Real Estate,27782,328.91,Tokyo,Australia,1952
+878,Future Inc 42,Retail,10277,269.96,Tokyo,UK,1964
+879,Global Ltd 74,Energy,46325,463.09,Tokyo,Germany,1963
+880,Alpha Inc 39,Automotive,5128,178.91,London,UK,1971
+881,Global Inc 2,Finance,21650,154.75,Berlin,India,2022
+882,Smart Corp 83,Technology,49110,401.62,Berlin,India,1978
+883,Future Inc 85,Healthcare,35523,450.08,Sydney,Canada,1992
+884,Future Ltd 20,Retail,23569,66.89,Tokyo,India,1995
+885,Global Inc 78,Healthcare,33935,132.36,Sydney,UK,1962
+886,Prime Solutions 16,Automotive,16149,199.57,London,UK,1972
+887,Smart Solutions 71,Retail,22615,14.64,Toronto,India,1954
+888,Future Group 66,Energy,43693,123.59,Bangalore,Japan,2004
+889,Future Ltd 20,Energy,1711,375.83,Toronto,India,2005
+890,Future Group 38,Technology,541,413.43,Bangalore,India,1977
+891,Future Inc 4,Retail,30492,66.04,Bangalore,Germany,2014
+892,Tech Group 69,Technology,650,181.15,Toronto,Japan,1995
+893,Eco Systems 42,Finance,46673,496.68,Bangalore,Japan,1957
+894,Future Systems 43,Retail,2016,272.48,London,Japan,1971
+895,Eco Ltd 68,Healthcare,3724,206.68,London,India,2023
+896,Future Group 32,Healthcare,39583,346.82,San Francisco,India,2018
+897,Future Solutions 98,Finance,22362,252.44,Tokyo,Australia,1970
+898,Eco Solutions 25,Real Estate,6152,488.84,San Francisco,Canada,1974
+899,Global Group 68,Automotive,3621,82.07,Berlin,UK,1967
+900,Omega Solutions 81,Energy,19670,390.19,London,Japan,1950
+901,Eco Systems 44,Healthcare,18734,36.07,Toronto,Canada,1988
+902,Omega Inc 68,Healthcare,32531,375.18,Toronto,UK,1959
+903,Alpha Holdings 35,Automotive,20518,483.58,Bangalore,Australia,1950
+904,Smart Systems 18,Finance,470,232.46,Toronto,India,2014
+905,Eco Solutions 99,Finance,14536,338.07,Bangalore,India,1959
+906,Alpha Corp 96,Finance,41505,315.65,Toronto,Germany,1989
+907,Omega Solutions 19,Finance,40941,466.12,San Francisco,USA,2017
+908,Smart Holdings 61,Energy,10975,410.66,London,Germany,1997
+909,Future Solutions 56,Healthcare,37061,234.23,Berlin,USA,2008
+910,Omega Corp 65,Real Estate,5760,118.03,San Francisco,India,1990
+911,Omega Corp 79,Energy,755,95.32,San Francisco,USA,2001
+912,Prime Solutions 23,Finance,49718,235.85,Berlin,India,1979
+913,Tech Group 43,Retail,7690,289.22,London,Germany,2017
+914,Omega Inc 95,Technology,5591,2.23,San Francisco,Japan,2007
+915,Global Solutions 72,Real Estate,4686,49.57,San Francisco,Japan,2000
+916,Future Group 27,Automotive,25098,124.71,London,Canada,1970
+917,Prime Ltd 49,Finance,11450,429.44,Tokyo,India,2018
+918,Smart Corp 49,Energy,45567,158.17,Toronto,India,2015
+919,Global Holdings 25,Retail,29614,29.19,New York,Canada,1980
+920,Eco Holdings 24,Finance,48034,323.6,San Francisco,UK,2001
+921,Future Systems 3,Energy,39815,410.85,Tokyo,Japan,1953
+922,Alpha Corp 60,Energy,46322,61.35,Sydney,Australia,1980
+923,Eco Group 88,Energy,1186,65.21,London,Canada,2009
+924,Smart Group 57,Retail,45791,201.86,Bangalore,Canada,1990
+925,Eco Ltd 30,Automotive,33804,349.99,Sydney,UK,1974
+926,Global Corp 91,Real Estate,25845,61.89,Berlin,Canada,2004
+927,Tech Corp 37,Energy,4689,126.37,Bangalore,India,1976
+928,Eco Ltd 31,Technology,21569,199.02,San Francisco,USA,2001
+929,Tech Systems 49,Energy,46331,1.05,New York,India,1991
+930,Eco Ltd 8,Retail,34074,146.19,New York,Japan,1968
+931,Future Solutions 36,Energy,8661,59.45,Toronto,Japan,2011
+932,Eco Group 32,Retail,38200,40.61,Tokyo,Germany,2019
+933,Future Group 8,Automotive,41481,135.72,Berlin,Japan,1952
+934,Tech Systems 29,Retail,10546,338.14,New York,India,1979
+935,Tech Holdings 74,Real Estate,17242,379.71,Tokyo,Japan,1956
+936,Alpha Systems 30,Healthcare,8688,428.25,New York,Japan,2020
+937,Future Solutions 12,Retail,6756,321.73,Berlin,India,1961
+938,Smart Holdings 93,Technology,41413,481.53,Bangalore,USA,1990
+939,Future Ltd 67,Energy,2075,129.98,Berlin,UK,2013
+940,Prime Ltd 21,Healthcare,41779,70.59,London,Australia,2023
+941,Tech Ltd 71,Real Estate,33457,454.58,Bangalore,Canada,1953
+942,Eco Group 73,Retail,40471,24.08,San Francisco,Germany,1996
+943,Global Holdings 1,Energy,9104,193.37,London,Australia,1971
+944,Future Inc 73,Finance,45494,138.01,Bangalore,Japan,1967
+945,Alpha Solutions 96,Energy,38291,462.98,San Francisco,UK,2005
+946,Eco Corp 78,Finance,25441,311.96,Berlin,India,1981
+947,Omega Group 31,Automotive,26219,15.06,San Francisco,Australia,2009
+948,Prime Corp 35,Healthcare,42893,467.06,New York,Japan,1966
+949,Prime Solutions 58,Healthcare,33783,225.25,London,USA,1993
+950,Omega Ltd 61,Finance,48650,146.16,New York,India,1996
+951,Future Inc 63,Technology,29425,132.38,San Francisco,USA,1983
+952,Future Inc 25,Automotive,23812,119.52,New York,USA,1962
+953,Eco Group 23,Finance,25043,316.68,Bangalore,Japan,1955
+954,Alpha Holdings 38,Technology,26226,347.1,San Francisco,Canada,1965
+955,Smart Group 8,Real Estate,28136,403.33,San Francisco,USA,2004
+956,Smart Ltd 37,Healthcare,40933,21.78,London,Japan,1955
+957,Global Holdings 12,Technology,27266,399.75,Toronto,Germany,2013
+958,Tech Ltd 59,Real Estate,13786,295.66,Sydney,Australia,2012
+959,Omega Ltd 63,Automotive,12554,2.27,Bangalore,Japan,2009
+960,Eco Ltd 90,Finance,40140,459.1,Bangalore,Germany,1983
+961,Future Ltd 30,Technology,36672,394.73,Bangalore,Japan,1990
+962,Tech Corp 18,Finance,12078,363.02,Tokyo,Canada,2003
+963,Omega Corp 84,Finance,17681,64.89,Tokyo,Canada,1956
+964,Eco Group 4,Real Estate,24427,193.82,San Francisco,USA,1966
+965,Alpha Solutions 35,Energy,6846,269.58,London,Australia,1992
+966,Alpha Systems 36,Real Estate,18765,338.0,Sydney,Australia,1991
+967,Tech Ltd 11,Automotive,19376,9.5,New York,India,1999
+968,Tech Holdings 9,Technology,49328,135.8,Tokyo,Australia,1956
+969,Future Group 84,Energy,48320,489.78,Toronto,UK,1976
+970,Smart Ltd 83,Technology,39105,246.01,San Francisco,India,1962
+971,Prime Systems 78,Retail,3958,41.12,Bangalore,Australia,2005
+972,Alpha Group 84,Energy,45686,364.45,Tokyo,Canada,1974
+973,Smart Group 27,Finance,21094,119.21,Berlin,UK,2009
+974,Future Corp 10,Energy,30316,352.35,Bangalore,USA,1969
+975,Global Solutions 42,Finance,4042,255.18,Tokyo,Australia,2001
+976,Smart Systems 68,Automotive,15246,159.74,Berlin,Australia,1962
+977,Smart Ltd 76,Energy,7968,370.58,London,India,1959
+978,Smart Corp 11,Real Estate,417,475.2,Tokyo,UK,2001
+979,Alpha Solutions 17,Real Estate,43677,125.39,Bangalore,Japan,1963
+980,Future Solutions 54,Healthcare,26180,280.92,Sydney,India,1994
+981,Alpha Corp 7,Real Estate,25208,317.46,Toronto,Germany,2015
+982,Smart Systems 2,Healthcare,28602,190.4,London,Canada,1953
+983,Alpha Systems 87,Real Estate,5376,171.76,New York,Japan,2023
+984,Global Solutions 27,Finance,41285,344.84,Bangalore,Canada,1980
+985,Future Corp 32,Finance,10425,478.3,London,Australia,1976
+986,Tech Inc 83,Automotive,20777,203.48,London,Australia,1989
+987,Prime Systems 64,Retail,36243,429.95,London,UK,1963
+988,Eco Ltd 44,Technology,15652,448.76,New York,USA,2003
+989,Prime Systems 63,Healthcare,3733,135.27,Toronto,USA,1972
+990,Global Ltd 91,Healthcare,5946,437.35,San Francisco,Canada,1963
+991,Omega Corp 64,Technology,46269,82.77,Toronto,Australia,1958
+992,Future Holdings 98,Finance,13603,156.93,London,Australia,1967
+993,Alpha Systems 19,Automotive,29621,222.96,Toronto,Japan,1975
+994,Tech Group 72,Technology,17137,243.38,London,Japan,1978
+995,Prime Corp 76,Healthcare,37448,361.36,Tokyo,Australia,1963
+996,Tech Solutions 79,Retail,39142,169.82,Toronto,Japan,1980
+997,Eco Systems 29,Energy,33243,66.75,San Francisco,UK,2005
+998,Omega Ltd 57,Healthcare,41112,158.57,San Francisco,Australia,1989
+999,Future Inc 80,Automotive,46265,288.56,San Francisco,India,1970
+1000,Global Solutions 97,Automotive,37446,371.01,Tokyo,Germany,1989
