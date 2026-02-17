@@ -63,7 +63,7 @@ DUMMY_CONNECTIONS: Dict[str, Dict[str, Any]] = {
         },
         "foundryConfig": {
             "profiles_dataset_rid": "ri.foundry.main.dataset.aaaaaaaa-bbbb-cccc-dddd-eeeeeeeeeeee",
-            "visits_dataset_rid": "ri.foundry.main.dataset.11111111-2222-3333-4444-555555555555",
+            "visits_dataset_rid": "ri.foundry.main.dataset.78fa7fa0-f298-4ce4-8a19-a2322a534265",
         },
         "last_sync_at": None,
     },
