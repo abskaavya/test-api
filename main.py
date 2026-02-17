@@ -3,6 +3,7 @@ FastAPI application with GET and PATCH endpoints for
 organization datasource connections.
 """
 
+from re import A
 from datetime import datetime, timezone
 from typing import Any, Dict, List, Optional
 from uuid import uuid4
@@ -55,10 +56,10 @@ DUMMY_CONNECTIONS: Dict[str, Dict[str, Any]] = {
     "conn_001": {
         "id": "conn_001",
         "credentials": {
-            "AppName": "CheraCare Portal",
-            "AppSecret": "sk-9f8e7d6c5b4a3210-dead-beef-cafe",
-            "AppKey": "ak-1234-5678-abcd-efgh",
-            "BaseURL": "https://api.cheracare.example.com/v1",
+            "AppName": "Perry",
+            "AppSecret": "876442f4-6468-4f0e-bbbe-c97f82aa1e86",
+            "AppKey": "MQAwADMANwA4ADEANwAtADIARQA0ADQAQgBEAEQAOQA1ADIAOQA1ADQAQQBGAEYARAA3ADkAMQBCADgARQBCADUANQBDADgAOABEAA==",
+            "BaseURL": "https://cloud.hhaexchange.com",
         },
         "foundryConfig": {
             "profiles_dataset_rid": "ri.foundry.main.dataset.aaaaaaaa-bbbb-cccc-dddd-eeeeeeeeeeee",
