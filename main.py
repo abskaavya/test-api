@@ -34,7 +34,7 @@ class FoundryConfig(BaseModel):
 class ConnectionResponse(BaseModel):
     id: str
     credentials: Credentials
-    foundryConfig: FoundryConfig
+    foundry_config: FoundryConfig
     last_sync_at: Optional[str] = None
 
 
