@@ -61,7 +61,7 @@ DUMMY_CONNECTIONS: Dict[str, Dict[str, Any]] = {
             "AppKey": "MQAwADMANwA4ADEANwAtADIARQA0ADQAQgBEAEQAOQA1ADIAOQA1ADQAQQBGAEYARAA3ADkAMQBCADgARQBCADUANQBDADgAOABEAA==",
             "BaseURL": "https://cloud.hhaexchange.com",
         },
-        "foundryConfig": {
+        "foundry_config": {
             "profiles_dataset_rid": "ri.foundry.main.dataset.aaaaaaaa-bbbb-cccc-dddd-eeeeeeeeeeee",
             "visits_dataset_rid": "ri.foundry.main.dataset.78fa7fa0-f298-4ce4-8a19-a2322a534265",
         },
@@ -75,7 +75,7 @@ DUMMY_CONNECTIONS: Dict[str, Dict[str, Any]] = {
             "AppKey": "ak-wxyz-9876-lmno-pqrs",
             "BaseURL": "https://mobile-api.cheracare.example.com/v2",
         },
-        "foundryConfig": {
+        "foundry_config": {
             "profiles_dataset_rid": "ri.foundry.main.dataset.ffffffff-0000-1111-2222-333333333333",
             "visits_dataset_rid": "ri.foundry.main.dataset.66666666-7777-8888-9999-aaaaaaaaaaaa",
         },
