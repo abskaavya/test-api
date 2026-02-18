@@ -28,6 +28,7 @@ class Credentials(BaseModel):
 
 class FoundryConfig(BaseModel):
     profiles_dataset_rid: str
+    profiles_terminated_dataset_rid: str
     visits_dataset_rid: str
 
 
