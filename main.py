@@ -62,7 +62,8 @@ DUMMY_CONNECTIONS: Dict[str, Dict[str, Any]] = {
             "BaseURL": "https://cloud.hhaexchange.com",
         },
         "foundry_config": {
-            "profiles_dataset_rid": "ri.foundry.main.dataset.aaaaaaaa-bbbb-cccc-dddd-eeeeeeeeeeee",
+            "profiles_dataset_rid": "ri.foundry.main.dataset.11c3e68b-7bfc-4783-82df-a8865663ca8b",
+            "profiles_terminated_dataset_rid": "ri.foundry.main.dataset.7941cc2c-5cf9-4a98-98cb-edfe4cedd3f4",
             "visits_dataset_rid": "ri.foundry.main.dataset.78fa7fa0-f298-4ce4-8a19-a2322a534265",
         },
         "last_sync_at": None,
