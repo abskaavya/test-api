@@ -72,14 +72,15 @@ DUMMY_CONNECTIONS: Dict[str, Dict[str, Any]] = {
     "conn_002": {
         "id": "conn_002",
         "credentials": {
-            "AppName": "CheraCare Mobile",
-            "AppSecret": "sk-0123abcd4567efgh-8901-ijkl-mnop",
-            "AppKey": "ak-wxyz-9876-lmno-pqrs",
-            "BaseURL": "https://mobile-api.cheracare.example.com/v2",
+            "AppName": "Nursing South Corp",
+            "AppSecret": "443ac9ad-6ac6-4c8f-855b-6460b3d99288",
+            "AppKey": "MQA2ADQAMAA4ADAALQBCAEMANQBCAEMAMwBFADQANQA0ADIANQBCADEAMgAwADAAQwAwADkAOQA0ADQAMAAyADIANAAzAEIANgA=",
+            "BaseURL": "https://app2.hhaexchange.com",
         },
         "foundry_config": {
-            "profiles_dataset_rid": "ri.foundry.main.dataset.ffffffff-0000-1111-2222-333333333333",
-            "visits_dataset_rid": "ri.foundry.main.dataset.66666666-7777-8888-9999-aaaaaaaaaaaa",
+            "profiles_dataset_rid": "ri.foundry.main.dataset.020d99a4-09c9-4221-86f1-06a6c35a6db3",
+            "profiles_terminated_dataset_rid": "ri.foundry.main.dataset.0358d891-8817-452c-9b56-57450bf901b4",
+            "visits_dataset_rid": "ri.foundry.main.dataset.57a68f07-1a41-43ea-a188-3611d68f83c5",
         },
         "last_sync_at": "2026-02-16T08:30:00+00:00",
     },

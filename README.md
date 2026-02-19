@@ -1,60 +1,43 @@
-# Test API
+# Test API — Organization Datasource Connections
 
-This is a sample API project created for testing and demonstration purposes. It serves as a boilerplate for building robust and scalable back-end services.
+A **FastAPI** service for managing organisation datasource connections (credentials, Palantir Foundry config, sync status). Backed by an in-memory dummy data store.
 
-## 🚀 Features
+## ️ Stack
 
-- **RESTful API**: Clean and predictable resource-oriented URLs.
-- **Authentication**: JWT-based secure authentication flow.
-- **Database Integration**: Generic ORM support for PostgreSQL/MySQL.
-- **Documentation**: Auto-generated Swagger/OpenAPI documentation.
-- **Testing**: Comprehensive unit and integration test suites.
+- **Python 3.11** · **FastAPI 0.115** · **Uvicorn 0.30** · **Pydantic v2**
 
-## 🛠️ Tech Stack
-
-- **Runtime**: Node.js
-- **Framework**: Express.js / Fastify
-- **Language**: TypeScript
-- **Database**: PostgreSQL with Prisma ORM
-
-## 🏁 Getting Started
-
-### Prerequisites
-
-- Node.js (v18 or higher)
-- npm or yarn
-
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/test-api.git
-   ```
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-3. Set up environment variables:
-   ```bash
-   cp .env.example .env
-   ```
-
-### Running the App
+## 🏁 Setup
 
 ```bash
-# Development mode
-npm run dev
+# Install dependencies
+pip install -r requirements.txt
 
-# Production mode
-npm run build
-npm start
+# Run (dev mode)
+python main.py
+# or
+uvicorn main:app --reload
 ```
 
-## 📚 API Documentation
+Server runs at `http://localhost:8000`.  
+Interactive docs → `http://localhost:8000/docs`
 
-Once the server is running, you can access the API documentation at:
-`http://localhost:3000/api-docs`
+## � Endpoints
 
-## 📄 License
+| Method | Path | Description |
+|--------|------|-------------|
+| `GET` | `/backend/datasources/organizations/connections` | List all connections |
+| `GET` | `/backend/datasources/organizations/connections/{id}` | Get connection by ID |
+| `PATCH` | `/backend/datasources/organizations/connections/{id}` | Update `last_sync_at` |
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+**PATCH body:**
+```json
+{ "last_sync_at": "2026-02-19T10:00:00+00:00" }
+```
+
+## 📂 Structure
+
+```
+main.py            # App, models, and route handlers
+requirements.txt   # Dependencies
+.python-version    # Python 3.11.12
+```
