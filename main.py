@@ -72,9 +72,9 @@ DUMMY_CONNECTIONS: Dict[str, Dict[str, Any]] = {
     "conn_002": {
         "id": "conn_002",
         "credentials": {
-            "AppName": "Nursing South Corp",
+            "AppName": "America's Nursing",
             "AppSecret": "443ac9ad-6ac6-4c8f-855b-6460b3d99288",
-            "AppKey": "MQA2ADQAMAA4ADAALQBCAEMANQBCAEMAMwBFADQANQA0ADIANQBCADEAMgAwADAAQwAwADkAOQA0ADQAMAAyADIANAAzAEIANgA=",
+            "AppKey": "MQA2ADcANgA5ADAALQBGADUARgA3ADkARgAxADAARgBCADcAMQBFADUAOQAyADkAQwAxADUANgAzAEYAOAAwAEMAMgA2ADAANwA=",
             "BaseURL": "https://app2.hhaexchange.com",
         },
         "foundry_config": {
