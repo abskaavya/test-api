@@ -28,7 +28,6 @@ class Credentials(BaseModel):
 
 class FoundryConfig(BaseModel):
     profiles_dataset_rid: str
-    profiles_terminated_dataset_rid: str
     visits_dataset_rid: str
 
 
@@ -64,7 +63,6 @@ DUMMY_CONNECTIONS: Dict[str, Dict[str, Any]] = {
         },
         "foundry_config": {
             "profiles_dataset_rid": "ri.foundry.main.dataset.11c3e68b-7bfc-4783-82df-a8865663ca8b",
-            "profiles_terminated_dataset_rid": "ri.foundry.main.dataset.7941cc2c-5cf9-4a98-98cb-edfe4cedd3f4",
             "visits_dataset_rid": "ri.foundry.main.dataset.78fa7fa0-f298-4ce4-8a19-a2322a534265",
         },
         "last_sync_at": None,
@@ -79,7 +77,6 @@ DUMMY_CONNECTIONS: Dict[str, Dict[str, Any]] = {
         },
         "foundry_config": {
             "profiles_dataset_rid": "ri.foundry.main.dataset.020d99a4-09c9-4221-86f1-06a6c35a6db3",
-            "profiles_terminated_dataset_rid": "ri.foundry.main.dataset.0358d891-8817-452c-9b56-57450bf901b4",
             "visits_dataset_rid": "ri.foundry.main.dataset.57a68f07-1a41-43ea-a188-3611d68f83c5",
         },
         "last_sync_at": "2026-02-16T08:30:00+00:00",
