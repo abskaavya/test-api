@@ -5,7 +5,7 @@ organization datasource connections.
 
 from re import A
 from datetime import datetime, timezone
-from typing import Any, Dict, List, Optional
+from typing import Any, Dict, List, Optional, Union
 from uuid import uuid4
 
 from fastapi import FastAPI, HTTPException, Path
@@ -39,10 +39,16 @@ class ConnectionResponse(BaseModel):
 
 
 class PatchConnectionRequest(BaseModel):
-    last_sync_at: str = Field(
+    last_sync_at: Union[datetime, str] = Field(
         ...,
-        description="ISO-8601 timestamp of the most recent sync.",
+        description="ISO-8601 timestamp of the most recent sync (datetime or string).",
     )
+
+    def last_sync_at_iso(self) -> str:
+        """Always return an ISO-8601 string regardless of input type."""
+        if isinstance(self.last_sync_at, datetime):
+            return self.last_sync_at.isoformat()
+        return self.last_sync_at
 
 
 class PatchConnectionResponse(BaseModel):
@@ -149,11 +155,11 @@ async def patch_connection(
             detail=f"Connection '{organization_datasource_id}' not found.",
         )
 
-    connection["last_sync_at"] = payload.last_sync_at
+    connection["last_sync_at"] = payload.last_sync_at_iso()
 
     return PatchConnectionResponse(
         id=organization_datasource_id,
-        last_sync_at=payload.last_sync_at,
+        last_sync_at=payload.last_sync_at_iso(),
         message="last_sync_at updated successfully",
     )
 
