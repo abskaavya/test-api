@@ -35,25 +35,25 @@ class ConnectionResponse(BaseModel):
     id: str
     credentials: Credentials
     foundry_config: FoundryConfig
-    last_sync_at: Optional[str] = None
+    lastSyncAt: Optional[str] = None
 
 
 class PatchConnectionRequest(BaseModel):
-    last_sync_at: Union[datetime, str] = Field(
+    lastSyncAt: Union[datetime, str] = Field(
         ...,
         description="ISO-8601 timestamp of the most recent sync (datetime or string).",
     )
 
-    def last_sync_at_iso(self) -> str:
+    def lastSyncAt_iso(self) -> str:
         """Always return an ISO-8601 string regardless of input type."""
-        if isinstance(self.last_sync_at, datetime):
-            return self.last_sync_at.isoformat()
-        return self.last_sync_at
+        if isinstance(self.lastSyncAt, datetime):
+            return self.lastSyncAt.isoformat()
+        return self.lastSyncAt
 
 
 class PatchConnectionResponse(BaseModel):
     id: str
-    last_sync_at: str
+    lastSyncAt: str
     message: str
 
 
@@ -71,7 +71,7 @@ DUMMY_CONNECTIONS: Dict[str, Dict[str, Any]] = {
             "profiles_dataset_rid": "ri.foundry.main.dataset.11c3e68b-7bfc-4783-82df-a8865663ca8b",
             "visits_dataset_rid": "ri.foundry.main.dataset.57a68f07-1a41-43ea-a188-3611d68f83c5",
         },
-        "last_sync_at": None,
+        "lastSyncAt": None,
     },
     "conn_002": {
         "id": "conn_002",
@@ -85,7 +85,7 @@ DUMMY_CONNECTIONS: Dict[str, Dict[str, Any]] = {
             "profiles_dataset_rid": "ri.foundry.main.dataset.020d99a4-09c9-4221-86f1-06a6c35a6db3",
             "visits_dataset_rid": "ri.foundry.main.dataset.57a68f07-1a41-43ea-a188-3611d68f83c5",
         },
-        "last_sync_at": "2026-02-16T08:30:00+00:00",
+        "lastSyncAt": "2026-02-16T08:30:00+00:00",
     },
 }
 
@@ -134,7 +134,7 @@ async def get_connection_by_id(
 @app.patch(
     "/backend/datasources/organizations/connections/{organization_datasource_id}",
     response_model=PatchConnectionResponse,
-    summary="Update last_sync_at for a connection",
+    summary="Update lastSyncAt for a connection",
 )
 async def patch_connection(
     payload: PatchConnectionRequest,
@@ -143,7 +143,7 @@ async def patch_connection(
     ),
 ):
     """
-    Accept a JSON body with `last_sync_at` (ISO-8601 string) and
+    Accept a JSON body with `lastSyncAt` (ISO-8601 string) and
     persist it against the given connection ID.
 
     This is the endpoint consumed by `update_connection_status()`.
@@ -155,12 +155,12 @@ async def patch_connection(
             detail=f"Connection '{organization_datasource_id}' not found.",
         )
 
-    connection["last_sync_at"] = payload.last_sync_at_iso()
+    connection["lastSyncAt"] = payload.lastSyncAt_iso()
 
     return PatchConnectionResponse(
         id=organization_datasource_id,
-        last_sync_at=payload.last_sync_at_iso(),
-        message="last_sync_at updated successfully",
+        lastSyncAt=payload.lastSyncAt_iso(),
+        message="lastSyncAt updated successfully",
     )
 
 
