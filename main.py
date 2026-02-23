@@ -76,14 +76,14 @@ DUMMY_CONNECTIONS: Dict[str, Dict[str, Any]] = {
     "conn_002": {
         "id": "conn_002",
         "credentials": {
-            "AppName": "Perry",
+            "AppName": "Perry", #caresphere llc
             "AppSecret": "443ac9ad-6ac6-4c8f-855b-6460b3d99288",
             "AppKey": "MQA2ADQANgAxADQALQAxADcAOQA4ADAAMABBAEQAMABEADYARQAwAEQAMgA5ADcAQwAyAEUANgAzAEQAOABGADQAMAA0ADkAOAA=",
             "BaseURL": "https://app2.hhaexchange.com",
         },
         "foundry_config": {
-            "profiles_dataset_rid": "ri.foundry.main.dataset.020d99a4-09c9-4221-86f1-06a6c35a6db3",
-            "visits_dataset_rid": "ri.foundry.main.dataset.57a68f07-1a41-43ea-a188-3611d68f83c5",
+            "profiles_dataset_rid": "ri.foundry.main.dataset.a64b4790-85ba-49ef-b320-d077ac044637",
+            "visits_dataset_rid": "ri.foundry.main.dataset.dec9dedd-23f5-4a15-ba7d-672226944caf",
         },
         "lastSyncAt": "2026-02-16T08:30:00+00:00",
     },
