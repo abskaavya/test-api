@@ -76,9 +76,9 @@ DUMMY_CONNECTIONS: Dict[str, Dict[str, Any]] = {
     "conn_002": {
         "id": "conn_002",
         "credentials": {
-            "AppName": "Perry", #caresphere llc
+            "AppName": "Perry", #Mulberry Street
             "AppSecret": "443ac9ad-6ac6-4c8f-855b-6460b3d99288",
-            "AppKey": "MQA2ADQANgAxADQALQAxADcAOQA4ADAAMABBAEQAMABEADYARQAwAEQAMgA5ADcAQwAyAEUANgAzAEQAOABGADQAMAA0ADkAOAA=",
+            "AppKey": "MQA2ADQANQA4ADcALQA3AEYARQA0ADAANAA2ADkAOABGADgANgA5AEIAMQBCAEUARQBGAEEAOQA5ADYANwBGADkANgA4ADcAMwA=",
             "BaseURL": "https://app2.hhaexchange.com",
         },
         "foundry_config": {
